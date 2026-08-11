@@ -317,4 +317,3 @@ Other source code we would like to acknowledge:
 - [Grad-TTS](https://github.com/huawei-noah/Speech-Backbones/tree/main/Grad-TTS): For the monotonic alignment search source code
 - [torchdyn](https://github.com/DiffEqML/torchdyn): Useful for trying other ODE solvers during research and development
 - [labml.ai](https://nn.labml.ai/transformers/rope/index.html): For the RoPE implementation
-# TTS

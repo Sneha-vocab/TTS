@@ -7,6 +7,9 @@ from pathlib import Path
 from typing import Any, Callable, Dict, Tuple
 
 import gdown
+import matplotlib
+
+matplotlib.use("Agg")  # headless-safe; required before pyplot
 import matplotlib.pyplot as plt
 import numpy as np
 import torch
@@ -136,9 +139,11 @@ def intersperse(lst, item):
 
 
 def save_figure_to_numpy(fig):
-    data = np.fromstring(fig.canvas.tostring_rgb(), dtype=np.uint8, sep="")
-    data = data.reshape(fig.canvas.get_width_height()[::-1] + (3,))
-    return data
+    """Convert a matplotlib figure to an RGB numpy array (matplotlib 3.8+ safe)."""
+    fig.canvas.draw()
+    # tostring_rgb() was removed; buffer_rgba() is the supported API
+    buf = np.asarray(fig.canvas.buffer_rgba())
+    return buf[:, :, :3].copy()
 
 
 def plot_tensor(tensor):

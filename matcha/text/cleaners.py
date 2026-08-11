@@ -13,24 +13,28 @@ hyperparameter. Some cleaners are English-specific. You'll typically want to use
 
 import logging
 import re
+import unicodedata
 
-import phonemizer
-from unidecode import unidecode
+# Lazy imports: Tamil / basic_cleaners does not need unidecode or phonemizer
+_global_phonemizer = None
 
-# To avoid excessive logging we set the log level of the phonemizer package to Critical
-critical_logger = logging.getLogger("phonemizer")
-critical_logger.setLevel(logging.CRITICAL)
 
-# Intializing the phonemizer globally significantly reduces the speed
-# now the phonemizer is not initialising at every call
-# Might be less flexible, but it is much-much faster
-global_phonemizer = phonemizer.backend.EspeakBackend(
-    language="en-us",
-    preserve_punctuation=True,
-    with_stress=True,
-    language_switch="remove-flags",
-    logger=critical_logger,
-)
+def _get_phonemizer():
+    global _global_phonemizer  # noqa: PLW0603
+    if _global_phonemizer is None:
+        import phonemizer
+
+        critical_logger = logging.getLogger("phonemizer")
+        critical_logger.setLevel(logging.CRITICAL)
+        _global_phonemizer = phonemizer.backend.EspeakBackend(
+            language="en-us",
+            preserve_punctuation=True,
+            with_stress=True,
+            language_switch="remove-flags",
+            logger=critical_logger,
+        )
+    return _global_phonemizer
+
 
 
 # Regular expression matching whitespace:
@@ -84,11 +88,17 @@ def collapse_whitespace(text):
 
 
 def convert_to_ascii(text):
+    from unidecode import unidecode
+
     return unidecode(text)
 
 
 def basic_cleaners(text):
-    """Basic pipeline that lowercases and collapses whitespace without transliteration."""
+    """Basic pipeline for Tamil / code-mixed text: NFC, lowercase Latin, collapse spaces.
+
+    Does not transliterate or phonemize. Pair with symbols.py that includes Tamil chars.
+    """
+    text = unicodedata.normalize("NFC", text)
     text = lowercase(text)
     text = collapse_whitespace(text)
     return text
@@ -107,7 +117,7 @@ def english_cleaners2(text):
     text = convert_to_ascii(text)
     text = lowercase(text)
     text = expand_abbreviations(text)
-    phonemes = global_phonemizer.phonemize([text], strip=True, njobs=1)[0]
+    phonemes = _get_phonemizer().phonemize([text], strip=True, njobs=1)[0]
     # Added in some cases espeak is not removing brackets
     phonemes = remove_brackets(phonemes)
     phonemes = collapse_whitespace(phonemes)

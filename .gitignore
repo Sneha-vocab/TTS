@@ -162,3 +162,9 @@ g_02500000
 gradio_cached_examples/
 synth_output/
 /data
+
+# Training / inference artifacts (large)
+/outputs/
+*.ckpt
+*.pt
+*.pth

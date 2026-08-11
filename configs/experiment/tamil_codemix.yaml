@@ -1,0 +1,11 @@
+# @package _global_
+
+# Train Tamil code-mix Matcha-TTS:
+#   python matcha/train.py experiment=tamil_codemix
+
+defaults:
+  - override /data: tamil_codemix.yaml
+
+tags: ["tamil", "codemix", "basic_cleaners"]
+
+run_name: tamil_codemix

@@ -1,0 +1,14 @@
+# @package _global_
+
+# Lower VRAM Tamil code-mix training:
+#   python matcha/train.py experiment=tamil_codemix_min_memory
+
+defaults:
+  - override /data: tamil_codemix.yaml
+
+tags: ["tamil", "codemix", "min_memory"]
+
+run_name: tamil_codemix_min
+
+model:
+  out_size: 172

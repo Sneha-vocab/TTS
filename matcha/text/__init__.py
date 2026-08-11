@@ -23,7 +23,13 @@ def text_to_sequence(text, cleaner_names):
 
     clean_text = _clean_text(text, cleaner_names)
     for symbol in clean_text:
-        symbol_id = _symbol_to_id[symbol]
+        try:
+            symbol_id = _symbol_to_id[symbol]
+        except KeyError as exc:
+            raise KeyError(
+                f"Symbol {symbol!r} (U+{ord(symbol):04X}) not in symbols.py. "
+                "Update matcha/text/symbols.py for your language/charset."
+            ) from exc
         sequence += [symbol_id]
     return sequence, clean_text
 

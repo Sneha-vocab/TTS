@@ -45,16 +45,18 @@ def plot_spectrogram_to_numpy(spectrogram, filename):
     plt.savefig(filename)
 
 
-def process_text(i: int, text: str, device: torch.device):
+def process_text(i: int, text: str, device: torch.device, cleaner_names=None):
+    if cleaner_names is None:
+        cleaner_names = ["basic_cleaners"]
     print(f"[{i}] - Input text: {text}")
     x = torch.tensor(
-        intersperse(text_to_sequence(text, ["english_cleaners2"])[0], 0),
+        intersperse(text_to_sequence(text, cleaner_names)[0], 0),
         dtype=torch.long,
         device=device,
     )[None]
     x_lengths = torch.tensor([x.shape[-1]], dtype=torch.long, device=device)
     x_phones = sequence_to_text(x.squeeze(0).tolist())
-    print(f"[{i}] - Phonetised text: {x_phones[1::2]}")
+    print(f"[{i}] - Cleaned text: {x_phones[1::2]}")
 
     return {"x_orig": text, "x": x, "x_lengths": x_lengths, "x_phones": x_phones}
 
@@ -70,11 +72,17 @@ def get_texts(args):
 
 def assert_required_models_available(args):
     save_dir = get_user_data_dir()
-    if not hasattr(args, "checkpoint_path") and args.checkpoint_path is None:
-        model_path = args.checkpoint_path
+    if args.checkpoint_path is not None:
+        model_path = Path(args.checkpoint_path)
+        if not model_path.exists():
+            raise FileNotFoundError(f"Custom checkpoint not found: {model_path}")
     else:
         model_path = save_dir / f"{args.model}.ckpt"
         assert_model_downloaded(model_path, MATCHA_URLS[args.model])
+
+    if args.vocoder is None:
+        # Single-speaker custom / Tamil models: universal HiFi-GAN is a safe default
+        args.vocoder = "hifigan_univ_v1"
 
     vocoder_path = save_dir / f"{args.vocoder}"
     assert_model_downloaded(vocoder_path, VOCODER_URLS[args.vocoder])
@@ -264,6 +272,12 @@ def cli():
     parser.add_argument(
         "--batch_size", type=int, default=32, help="Batch size only useful when --batched (default: 32)"
     )
+    parser.add_argument(
+        "--cleaner",
+        type=str,
+        default="basic_cleaners",
+        help="Text cleaner for custom/Tamil models (default: basic_cleaners). Use english_cleaners2 for official English checkpoints.",
+    )
 
     args = parser.parse_args()
 
@@ -316,7 +330,7 @@ def batched_collate_fn(batch):
 def batched_synthesis(args, device, model, vocoder, denoiser, texts, spk):
     total_rtf = []
     total_rtf_w = []
-    processed_text = [process_text(i, text, "cpu") for i, text in enumerate(texts)]
+    processed_text = [process_text(i, text, "cpu", [args.cleaner]) for i, text in enumerate(texts)]
     dataloader = torch.utils.data.DataLoader(
         BatchedSynthesisDataset(processed_text),
         batch_size=args.batch_size,
@@ -365,7 +379,7 @@ def unbatched_synthesis(args, device, model, vocoder, denoiser, texts, spk):
 
         print("".join(["="] * 100))
         text = text.strip()
-        text_processed = process_text(i, text, device)
+        text_processed = process_text(i, text, device, [args.cleaner])
 
         print(f"[🍵] Whisking Matcha-T(ea)TS for: {i}")
         start_t = dt.datetime.now()

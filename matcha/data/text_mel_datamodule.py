@@ -198,7 +198,8 @@ class TextMelDataset(torch.utils.data.Dataset):
 
     def get_mel(self, filepath):
         audio, sr = ta.load(filepath)
-        assert sr == self.sample_rate
+        if sr != self.sample_rate:
+            audio = ta.functional.resample(audio, sr, self.sample_rate)
         mel = mel_spectrogram(
             audio,
             self.n_fft,

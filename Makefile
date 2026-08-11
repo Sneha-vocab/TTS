@@ -38,5 +38,11 @@ train-ljspeech: ## Train the model
 train-ljspeech-min: ## Train the model with minimum memory
 	python matcha/train.py experiment=ljspeech_min_memory
 
+train-tamil: ## Train Tamil code-mix model (basic_cleaners)
+	python matcha/train.py experiment=tamil_codemix
+
+train-tamil-min: ## Train Tamil code-mix with minimum memory
+	python matcha/train.py experiment=tamil_codemix_min_memory
+
 start_app: ## Start the app
 	python matcha/app.py
