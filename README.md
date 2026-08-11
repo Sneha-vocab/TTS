@@ -116,6 +116,10 @@ matcha-tts --text "<INPUT TEXT>" --steps 10
 
 ## Train with your own dataset
 
+> **Multilingual / Indic (Tamil, Kannada, …):** see **[MULTILINGUAL_TRAINING_GUIDE.md](./MULTILINGUAL_TRAINING_GUIDE.md)** for the full pipeline from English base → `basic_cleaners` → language-specific symbols, splits, mel stats, and training.
+>
+> **TTS concepts & Matcha architecture:** see **[TTS_ARCHITECTURE.md](./TTS_ARCHITECTURE.md)** (pipeline, mel spectrograms, NAR vs AR, CFM, encoder/decoder, training vs inference).
+
 Let's assume we are training with LJ Speech
 
 1. Download the dataset from [here](https://keithito.com/LJ-Speech-Dataset/), extract it to `data/LJSpeech-1.1`, and prepare the file lists to point to the extracted data like for [item 5 in the setup of the NVIDIA Tacotron 2 repo](https://github.com/NVIDIA/tacotron2#setup).
@@ -313,3 +317,4 @@ Other source code we would like to acknowledge:
 - [Grad-TTS](https://github.com/huawei-noah/Speech-Backbones/tree/main/Grad-TTS): For the monotonic alignment search source code
 - [torchdyn](https://github.com/DiffEqML/torchdyn): Useful for trying other ODE solvers during research and development
 - [labml.ai](https://nn.labml.ai/transformers/rope/index.html): For the RoPE implementation
+# TTS
