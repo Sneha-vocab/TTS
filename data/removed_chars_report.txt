@@ -1,0 +1,15 @@
+input_lines=5979
+lines_changed=5979
+unique_chars_before=95
+unique_chars_after=91
+
+REMOVED CHAR COUNTS:
+  '-'      U+002D    5966  HYPHEN-MINUS
+  '.'      U+002E    5157  FULL STOP
+  '?'      U+003F     822  QUESTION MARK
+  ','      U+002C     578  COMMA
+
+CHARS KEPT (after):
+   ABCDEFGHIJKLMNOPRSTUVWXYZabcdefghijklmnopqrstuvwxyzஅஆஇஉஎஏஐஒகஙசஜடணதநனபமயரறலளழவஷாிீுூெேைொோௌ்
+
+CHARS FULLY REMOVED FROM VOCAB: [',', '-', '.', '?']

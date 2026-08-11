@@ -1,0 +1,8 @@
+source=metadata_tamil_code_mix_normalized.csv
+seed=42
+total=5979
+train=5383 (90.03%)
+test=298 (4.98%)
+eval_val=298 (4.98%)
+missing_wavs=0
+path_format=data/wavs_tamil_code_mix/<file>.wav|text

@@ -1,0 +1,95 @@
+unique_count=91
+total_chars=833434
+
+char        ord    count  cat   name
+' '          32   100054  Zs    SPACE
+'்'        3021    80682  Mn    TAMIL SIGN VIRAMA
+'க'        2965    43548  Lo    TAMIL LETTER KA
+'e'         101    41075  Ll    LATIN SMALL LETTER E
+'ு'        3009    37062  Mc    TAMIL VOWEL SIGN U
+'i'         105    25744  Ll    LATIN SMALL LETTER I
+'a'          97    24536  Ll    LATIN SMALL LETTER A
+'n'         110    23714  Ll    LATIN SMALL LETTER N
+'s'         115    18784  Ll    LATIN SMALL LETTER S
+'t'         116    18625  Ll    LATIN SMALL LETTER T
+'ள'        2995    18324  Lo    TAMIL LETTER LLA
+'r'         114    17825  Ll    LATIN SMALL LETTER R
+'த'        2980    16551  Lo    TAMIL LETTER TA
+'o'         111    16072  Ll    LATIN SMALL LETTER O
+'u'         117    15792  Ll    LATIN SMALL LETTER U
+'ன'        2985    15106  Lo    TAMIL LETTER NNNA
+'ி'        3007    14433  Mc    TAMIL VOWEL SIGN I
+'வ'        2997    14221  Lo    TAMIL LETTER VA
+'ர'        2992    13833  Lo    TAMIL LETTER RA
+'c'          99    13795  Ll    LATIN SMALL LETTER C
+'ட'        2975    12922  Lo    TAMIL LETTER TTA
+'ற'        2993    11992  Lo    TAMIL LETTER RRA
+'ய'        2991    11777  Lo    TAMIL LETTER YA
+'h'         104    11636  Ll    LATIN SMALL LETTER H
+'d'         100    11516  Ll    LATIN SMALL LETTER D
+'ம'        2990    10483  Lo    TAMIL LETTER MA
+'ப'        2986     9834  Lo    TAMIL LETTER PA
+'ே'        3015     9763  Mc    TAMIL VOWEL SIGN EE
+'l'         108     9736  Ll    LATIN SMALL LETTER L
+'ங'        2969     9577  Lo    TAMIL LETTER NGA
+'f'         102     9447  Ll    LATIN SMALL LETTER F
+'ந'        2984     9149  Lo    TAMIL LETTER NA
+'ா'        3006     8181  Mc    TAMIL VOWEL SIGN AA
+'ச'        2970     7948  Lo    TAMIL LETTER CA
+'p'         112     7779  Ll    LATIN SMALL LETTER P
+'உ'        2953     7769  Lo    TAMIL LETTER U
+'ெ'        3014     6623  Mc    TAMIL VOWEL SIGN E
+'அ'        2949     6156  Lo    TAMIL LETTER A
+'v'         118     5885  Ll    LATIN SMALL LETTER V
+'ல'        2994     5355  Lo    TAMIL LETTER LA
+'m'         109     4868  Ll    LATIN SMALL LETTER M
+'y'         121     4824  Ll    LATIN SMALL LETTER Y
+'k'         107     4758  Ll    LATIN SMALL LETTER K
+'ண'        2979     4577  Lo    TAMIL LETTER NNA
+'g'         103     4148  Ll    LATIN SMALL LETTER G
+'இ'        2951     3611  Lo    TAMIL LETTER I
+'ஒ'        2962     3228  Lo    TAMIL LETTER O
+'ொ'        3018     3011  Mc    TAMIL VOWEL SIGN O
+'எ'        2958     2852  Lo    TAMIL LETTER E
+'P'          80     2798  Lu    LATIN CAPITAL LETTER P
+'ை'        3016     2747  Mc    TAMIL VOWEL SIGN AI
+'R'          82     2614  Lu    LATIN CAPITAL LETTER R
+'ூ'        3010     2534  Mc    TAMIL VOWEL SIGN UU
+'ஆ'        2950     2368  Lo    TAMIL LETTER AA
+'T'          84     2321  Lu    LATIN CAPITAL LETTER T
+'ஜ'        2972     2280  Lo    TAMIL LETTER JA
+'ோ'        3019     2073  Mc    TAMIL VOWEL SIGN OO
+'ஏ'        2959     2023  Lo    TAMIL LETTER EE
+'O'          79     1979  Lu    LATIN CAPITAL LETTER O
+'ஐ'        2960     1880  Lo    TAMIL LETTER AI
+'w'         119     1722  Ll    LATIN SMALL LETTER W
+'z'         122     1715  Ll    LATIN SMALL LETTER Z
+'b'          98     1606  Ll    LATIN SMALL LETTER B
+'ீ'        3008     1601  Mn    TAMIL VOWEL SIGN II
+'ழ'        2996     1488  Lo    TAMIL LETTER LLLA
+'K'          75     1010  Lu    LATIN CAPITAL LETTER K
+'S'          83      953  Lu    LATIN CAPITAL LETTER S
+'M'          77      952  Lu    LATIN CAPITAL LETTER M
+'x'         120      944  Ll    LATIN SMALL LETTER X
+'I'          73      905  Lu    LATIN CAPITAL LETTER I
+'A'          65      749  Lu    LATIN CAPITAL LETTER A
+'C'          67      648  Lu    LATIN CAPITAL LETTER C
+'j'         106      589  Ll    LATIN SMALL LETTER J
+'V'          86      561  Lu    LATIN CAPITAL LETTER V
+'E'          69      474  Lu    LATIN CAPITAL LETTER E
+'Y'          89      457  Lu    LATIN CAPITAL LETTER Y
+'L'          76      394  Lu    LATIN CAPITAL LETTER L
+'U'          85      344  Lu    LATIN CAPITAL LETTER U
+'D'          68      343  Lu    LATIN CAPITAL LETTER D
+'B'          66      228  Lu    LATIN CAPITAL LETTER B
+'G'          71      188  Lu    LATIN CAPITAL LETTER G
+'ௌ'        3020      185  Mc    TAMIL VOWEL SIGN AU
+'N'          78      176  Lu    LATIN CAPITAL LETTER N
+'ஷ'        2999      116  Lo    TAMIL LETTER SSA
+'J'          74      107  Lu    LATIN CAPITAL LETTER J
+'H'          72      100  Lu    LATIN CAPITAL LETTER H
+'q'         113       34  Ll    LATIN SMALL LETTER Q
+'F'          70       22  Lu    LATIN CAPITAL LETTER F
+'W'          87       20  Lu    LATIN CAPITAL LETTER W
+'X'          88        3  Lu    LATIN CAPITAL LETTER X
+'Z'          90        2  Lu    LATIN CAPITAL LETTER Z

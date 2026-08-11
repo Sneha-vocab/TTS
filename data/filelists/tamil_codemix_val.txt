@@ -1,0 +1,298 @@
+data/wavs_tamil_code_mix/SAR_TN_F_SPK01_15979.wav|Umadevi அவர்களே KYC verificationக்கு உங்களுக்கு OTP ஒன்பது எட்டு ஒன்பது ஒன்பது எட்டு ஐந்து கிடைத்தது ஆகும் தயவுசெய்து ஒரு minute holdல் இருங்கள் மன்னிப்பு கேட்கிறேன்
+data/wavs_tamil_code_mix/SAR_TN_F_SPK01_14665.wav|EMI issueக்கு Palanisamy அவர்களே நாங்கள் apologize செய்கிறோம் நான் Rupees four thousand five hundred payment status check செய்கிறேன்
+data/wavs_tamil_code_mix/SAR_TN_F_SPK01_15328.wav|Kannaiyan அவர்களே Rupees eight thousand nine hundred failed UPI transactionக்கு ஏற்பட்ட inconvenienceக்காக நான் sincerely apologize செய்கிறேன்
+data/wavs_tamil_code_mix/SAR_TN_F_SPK01_13029.wav|Bakthavatsalam அவர்களே OTP ஐந்து ஒன்பது ஒன்பது இரண்டு ஆறு ஒன்பது verificationல் ஏற்பட்ட delayக்கு sincerely apologize செய்கிறேன் தயவுசெய்து ஒரு minute holdல் இருங்கள்
+data/wavs_tamil_code_mix/SAR_TN_F_SPK01_17043.wav|வணக்கம் Sujatha அவர்களே உங்கள் EMI issueக்கு நான் உங்கள் account check செய்துகொண்டிருக்கிறேன் தயவுசெய்து OTP ஏழு பூஜ்ஜியம் நான்கு ஒன்று மூன்று மூன்று சொல்லுங்கள்
+data/wavs_tamil_code_mix/SAR_TN_F_SPK01_14242.wav|உங்கள் wallet Rupees four thousand five hundred transaction issueக்கு Shanmugam அவர்களே sincerely apologize செய்கிறேன் தயவுசெய்து holdல் இருங்கள்
+data/wavs_tamil_code_mix/SAR_TN_F_SPK01_14968.wav|Kandasamy அவர்களே இந்த fraud transactionல் Rupees eight thousand nine hundredக்கு ஏற்பட்ட inconvenienceக்கு நாங்கள் வருந்துகிறோம்
+data/wavs_tamil_code_mix/SAR_TN_F_SPK01_12166.wav|Selvi அவர்களே உங்கள் KYC verificationக்கு OTP eight zero four zero four three confirm முடிந்துவிட்டது ஏதேனும் மற்றும் support தேவை
+data/wavs_tamil_code_mix/SAR_TN_F_SPK01_14327.wav|வணக்கம் Thanuja அவர்களே உங்கள் recharge issueக்கு நீங்கள் எனக்கு ticket number seven six five eight zero eight confirm செய்ய முடியுமா
+data/wavs_tamil_code_mix/SAR_TN_F_SPK01_14391.wav|Aringar அவர்களே இந்த Rupees nine hundred ninety nine wallet issue escalate ஆகும்
+data/wavs_tamil_code_mix/SAR_TN_F_SPK01_13931.wav|வணக்கம் Periyasamy அவர்களே எனக்கு உங்கள் UPI transaction fail ஏற்படுவதால் புகார் கிடைத்தது உள்ளது நீங்கள் Rupees four thousand five hundred பற்றி details சொல்லுங்கள் முடியுமா
+data/wavs_tamil_code_mix/SAR_TN_F_SPK01_16451.wav|Indira அவர்களே எனக்கு புரிகிறது Rupees nine hundred ninety nine refund pending ஏற்படுவதால் இடமிருந்து உங்களுக்கு inconvenience ஏற்படுகிறது
+data/wavs_tamil_code_mix/SAR_TN_F_SPK01_13993.wav|Marakathammal அவர்களே Rupees nine hundred ninety nine recharge failed ஆனதற்காக sincerely apologize செய்கிறேன் தயவுசெய்து ஒரு minute holdல் இருங்கள்
+data/wavs_tamil_code_mix/SAR_TN_F_SPK01_12609.wav|Aravazhagan அவர்களே இந்த telecom complaint issueஐ நான் உடனடியாக supervisorக்கு escalate செய்துகொண்டிருக்கிறேன் ticket three seven three eight four oneல் உங்களுக்கு update கிடைக்கும்
+data/wavs_tamil_code_mix/SAR_TN_F_SPK01_15199.wav|Barath அவர்களே KYC verificationல் delayக்கு sincerely apologize செய்கிறேன் தயவுசெய்து OTP நான்கு ஐந்து எட்டு ஒன்று நான்கு ஒன்பதுக்காக holdல் இருங்கள்
+data/wavs_tamil_code_mix/SAR_TN_F_SPK01_12611.wav|Ravichandran அவர்களே எனக்கு புரிகிறது Rupees four thousand five hundred உங்கள் recharge failed ஏற்படுவதால் இடமிருந்து உங்களுக்கு inconvenience ஏற்பட்ட உள்ளது
+data/wavs_tamil_code_mix/SAR_TN_F_SPK01_16256.wav|Ramesh அவர்களே இந்த fraud concernக்கு நாங்கள் sincerely apologize செய்கிறோம் கவலைப்படாதீர்கள் நாங்கள் உங்கள் Rupees nine hundred ninety nine issue உடனடியாக resolve செய்து கொடுப்போம்
+data/wavs_tamil_code_mix/SAR_TN_F_SPK01_16957.wav|வணக்கம் Nandhini அவர்களே உங்கள் app login issue தகவல் எனக்கு கிடைத்த ஆனது உள்ளது கவலைப்படாதீர்கள் நான் personally உங்கள் ticket one five six zero four five check செய்துகொண்டிருக்கிறேன்
+data/wavs_tamil_code_mix/SAR_TN_F_SPK01_17418.wav|நான் இப்போது உங்களுக்கு Ferozepur Punjab தொடர்பான பிரிவு இணைத்து கொண்டிருக்கிறேன் எதன்க்காக OTP ஆறு ஏழு இரண்டு பூஜ்ஜியம் ஒன்பது இரண்டு தேவை ஆகும்
+data/wavs_tamil_code_mix/SAR_TN_F_SPK01_16687.wav|கவலைப்படாதீர்கள் Devi அவர்களே நாங்கள் உங்கள் Rupees one thousand two hundred fifty fraud transactionஐ investigate செய்துகொண்டிருக்கிறோம்
+data/wavs_tamil_code_mix/SAR_TN_F_SPK01_16883.wav|Ramachandran அவர்களே உங்கள் insurance ticket seven three four five seven sevenல் delayக்கு sincerely apologize செய்கிறேன் தயவுசெய்து ஒரு minute holdல் இருங்கள்
+data/wavs_tamil_code_mix/SAR_TN_F_SPK01_17642.wav|எனக்கு இப்போது உங்களுக்கு Deviஇடமிருந்து இணைக்கிறேன் தயவுசெய்து OTP நான்கு எட்டு ஆறு ஆறு நான்கு ஒன்பதுஐ உறுதிப்படுத்தல் செய்து விவரம் கொடுங்கள்
+data/wavs_tamil_code_mix/SAR_TN_F_SPK01_15908.wav|கவலைப்படாதீர்கள் Thirumurugan அவர்களே உங்கள் wallet issue Rupees four thousand five hundred refund process ஏற்படுகின்றன
+data/wavs_tamil_code_mix/SAR_TN_F_SPK01_12175.wav|Muniyandi அவர்களே Rupees four hundred fifty fraud refund ஆகிவிடும்
+data/wavs_tamil_code_mix/SAR_TN_F_SPK01_15260.wav|Jothi அவர்களே உங்கள் account verificationக்கு நன்றி OTP இரண்டு ஐந்து ஆறு இரண்டு ஆறு நான்கு confirm ஆகும் தான் உங்கள் issue resolve ஆகிவிடும்
+data/wavs_tamil_code_mix/SAR_TN_F_SPK01_16988.wav|Sathya அவர்களே Rupees four hundred fifty EMI issue சிரமம் புரிந்துகொள்கிறேன்
+data/wavs_tamil_code_mix/SAR_TN_F_SPK01_17439.wav|அசௌகரியத்திற்கு நாங்கள் வருந்துகிறோம் தயவுசெய்து Kaliappan ஆவணம்ஐ உறுதிப்படுத்தல் OTP ஐந்து எட்டு ஏழு ஐந்து ஏழு ஐந்துஇடமிருந்து செய்து உங்கள் பிரச்சனை சொல்லுங்கள்
+data/wavs_tamil_code_mix/SAR_TN_F_SPK01_15372.wav|Ekambaram அவர்களே உங்கள் network issue complaint எனக்கு புரிந்து வருகிறது நான் உங்கள் ticket ஆறு ஒன்று மூன்று எட்டு ஒன்பது மூன்று உடனடியாக check செய்கிறேன்
+data/wavs_tamil_code_mix/SAR_TN_F_SPK01_17546.wav|Aravinth அவர்களே இந்த அசௌகரியத்திற்கு நாங்கள் வருந்துகிறோம் உங்கள் OTP இரண்டு பூஜ்ஜியம் ஐந்து இரண்டு மூன்று ஒன்பது இப்போது வெற்றிகரமாக பதிவு முடிந்துவிட்டது
+data/wavs_tamil_code_mix/SAR_TN_F_SPK01_16747.wav|Vanaja அவர்களே உங்கள் Rupees one thousand two hundred fifty failed UPI transactionக்கு நான் இந்த issue escalate செய்ய
+data/wavs_tamil_code_mix/SAR_TN_F_SPK01_15804.wav|Manikandan அவர்களே உங்கள் refund Rupees four hundred fifty உங்கள் accountல் விரைவில் process ஆக செல்வோம் கவலைப்படாதீர்கள்
+data/wavs_tamil_code_mix/SAR_TN_F_SPK01_17151.wav|Chandra அவர்களே உங்கள் refund process முடிந்துவிட்டது மற்றும் Rupees nine hundred ninety nine உங்கள் accountல் விரைவில் reflect ஆக செல்வோம் ஏதேனும் மற்றும் help தேவை
+data/wavs_tamil_code_mix/SAR_TN_F_SPK01_16632.wav|Kavitha அவர்களே நான் உங்கள் EMI issueஆல் தொடர்புடைய கவலை புரிந்துகொள்கிறேன் தயவுசெய்து எனக்கு ticket nine four eight two two zero check செய்ய அனுமதியுங்கள்
+data/wavs_tamil_code_mix/SAR_TN_F_SPK01_14971.wav|வணக்கம் Deepa அவர்களே உங்கள் nine hundred ninety nine failed UPI transaction status நான் இப்போது check செய்துவிடுகிறேன்
+data/wavs_tamil_code_mix/SAR_TN_F_SPK01_17228.wav|Kaliappan அவர்களே fraud concernக்கு மன்னிப்பு கேட்கிறேன் தயவுசெய்து OTP ஐந்து ஒன்று பூஜ்ஜியம் ஐந்து இரண்டு ஒன்பது verify செய்வதற்கு holdல் இருங்கள்
+data/wavs_tamil_code_mix/SAR_TN_F_SPK01_16818.wav|Poornima அவர்களே உங்கள் சிரமத்தை நான் புரிந்துகொள்கிறேன் Rupees eight thousand nine hundred failed UPI transaction ஒன்று serious issue உள்ளது
+data/wavs_tamil_code_mix/SAR_TN_F_SPK01_16024.wav|Vishal அவர்களே உங்கள் failed recharge issueக்கு நாங்கள் sincerely apologize செய்கிறோம் ticket எட்டு ஏழு ஆறு ஏழு நான்கு நான்கு உடன் உங்களுக்கு விரைவில் resolution update கிடைத்துவிடும்
+data/wavs_tamil_code_mix/SAR_TN_F_SPK01_12562.wav|Annamalai அவர்களே உங்கள் EMI payment issue நான் புரிந்துகொள்கிறேன் கவலைப்படாதீர்கள் நான் Rupees eight thousand nine hundred transaction இப்போது check செய்துவிடுகிறேன்
+data/wavs_tamil_code_mix/SAR_TN_F_SPK01_15811.wav|Marakathammal அவர்களே நான் உங்கள் EMI issue சிரமம் புரிந்துகொள்கிறேன் உங்கள் ticket நான்கு நான்கு இரண்டு ஆறு இரண்டு ஐந்து check செய்துகொண்டிருக்கிறேன்
+data/wavs_tamil_code_mix/SAR_TN_F_SPK01_12681.wav|Vignesh அவர்களே உங்கள் refund Rupees one thousand two hundred fifty process முடிந்துவிட்டது
+data/wavs_tamil_code_mix/SAR_TN_F_SPK01_17327.wav|வணக்கம் Lakshmi அவர்களே Rupees fifteen thousand refund issue உள்ளது
+data/wavs_tamil_code_mix/SAR_TN_F_SPK01_11893.wav|Thanuja அவர்களே உங்கள் blocked credit card issue நான் ticket நான்கு ஆறு ஐந்து நான்கு பூஜ்ஜியம் ஒன்று உடன் உடனடியாக escalate செய்கிறேன்
+data/wavs_tamil_code_mix/SAR_TN_F_SPK01_17302.wav|Veerammal அவர்களே உங்கள் credit card unblock requestக்கு ticket ஆறு பூஜ்ஜியம் எட்டு இரண்டு நான்கு ஆறு generate முடிந்துவிட்டது
+data/wavs_tamil_code_mix/SAR_TN_F_SPK01_17058.wav|Kumaran அவர்களே உங்கள் refund Rupees fifteen thousand விரைவில் process ஆகிவிடும்
+data/wavs_tamil_code_mix/SAR_TN_F_SPK01_16984.wav|Rangarajan அவர்களே உங்கள் Rupees four thousand five hundred refund issue நான் escalate செய்துவிட்டேன்
+data/wavs_tamil_code_mix/SAR_TN_F_SPK01_17257.wav|Ilangovan அவர்களே login issueக்கு apologize செய்கிறேன் நான் உங்கள் ticket one five three five two seven check செய்துகொண்டிருக்கிறேன்
+data/wavs_tamil_code_mix/SAR_TN_F_SPK01_16326.wav|Kavya அவர்களே உங்கள் credit card block ஏற்படுவதால் காரணமாக ஏற்பட்ட சிரமத்திற்காக sincerely apologize செய்கிறோம் தயவுசெய்து ticket eight three three five two zero note செய்யுங்கள்
+data/wavs_tamil_code_mix/SAR_TN_F_SPK01_11920.wav|Kannadasan அவர்களே உங்கள் app login issueக்கு நான் இந்த complaint ticket five one one seven seven five escalate செய்துகொண்டிருக்கிறேன்
+data/wavs_tamil_code_mix/SAR_TN_F_SPK01_17519.wav|Mahesh அவர்களே நான் சுருக்கத்தில் சொல்கிறேன் என்று உங்கள் விஷயம் தீர்வு முடிந்துவிட்டது மற்றும் OTP எட்டு ஏழு பூஜ்ஜியம் இரண்டு ஒன்று நான்கு உள்ளது
+data/wavs_tamil_code_mix/SAR_TN_F_SPK01_15831.wav|Nagajothi அவர்களே உங்கள் insurance claim ticket one three six seven zero sevenல் ஏற்பட்ட delayக்கு sincerely apologize செய்கிறோம் நீங்கள் உங்கள் feedback share செய்ய விரும்புகிறீர்களா
+data/wavs_tamil_code_mix/SAR_TN_F_SPK01_12698.wav|Rajaram அவர்களே உங்கள் app login issueஐ நான் உடனடியாக supervisorக்கு escalate செய்துகொண்டிருக்கிறேன் எதன் ticket number one zero seven zero one six உள்ளது
+data/wavs_tamil_code_mix/SAR_TN_F_SPK01_16238.wav|வணக்கம் Gopinath அவர்களே Barath Insurance supportக்கு உங்களை வரவேற்கிறோம் தயவுசெய்து உங்கள் OTP ஒன்பது ஆறு இரண்டு இரண்டு ஆறு இரண்டு verify செய்யுங்கள்
+data/wavs_tamil_code_mix/SAR_TN_F_SPK01_17337.wav|Marimuthu அவர்களே எனக்கு புரிகிறது Rupees eight thousand nine hundred cashback issueல் உங்களுக்கு frustration ஏற்படுகிறது தயவுசெய்து எனக்கு ஒன்று moment கொடுங்கள்
+data/wavs_tamil_code_mix/SAR_TN_F_SPK01_17280.wav|வணக்கம் Poornima அவர்களே customer supportக்கு உங்களை வரவேற்கிறோம் தயவுசெய்து உங்கள் ticket number seven seven three seven four four confirm செய்யுங்கள் மீண்டும் நான் உங்கள் help செய்வேன்
+data/wavs_tamil_code_mix/SAR_TN_F_SPK01_15133.wav|Dhandapani அவர்களே delivery issueக்கு மன்னிப்பு கேட்கிறேன் ticket ஏழு ஐந்து நான்கு ஐந்து ஒன்பது நான்கு பார்ப்பதற்கு தயவுசெய்து ஒரு minute holdல் இருங்கள்
+data/wavs_tamil_code_mix/SAR_TN_F_SPK01_17060.wav|கவலைப்படாதீர்கள் Sengamalam அவர்களே நான் உங்கள் telecom complaint ticket ஒன்று எட்டு மூன்று ஆறு எட்டு பூஜ்ஜியம் இப்போது escalate செய்து தருகிறேன்
+data/wavs_tamil_code_mix/SAR_TN_F_SPK01_17216.wav|EMI issueக்கு ஏற்பட்ட inconvenienceக்கு sincerely apologize செய்கிறோம் Meenakshisundaram அவர்களே உங்கள் refund Rupees four thousand five hundred விரைவில் process ஆகிவிடும்
+data/wavs_tamil_code_mix/SAR_TN_F_SPK01_16989.wav|Sorry Ekambaram அவர்களே Rupees eight thousand nine hundredக்கு தயவுசெய்து hold செய்யுங்கள்
+data/wavs_tamil_code_mix/SAR_TN_F_SPK01_14143.wav|Kaliyaperumal அவர்களே உங்கள் walletஇடமிருந்து Rupees one thousand two hundred fifty unexpected transaction ஆனதற்காக நான் sincerely apologize செய்கிறேன்
+data/wavs_tamil_code_mix/SAR_TN_F_SPK01_14506.wav|Chidambaram அவர்களே supervisor confirm செய்துள்ளார் உங்கள் account verification OTP eight five five zero three sevenஇடமிருந்து ஆகிவிடும் கவலைப்படாதீர்கள்
+data/wavs_tamil_code_mix/SAR_TN_F_SPK01_12185.wav|Karuppiah அவர்களே எனக்கு புரிகிறது உங்கள் claim process delay ஆகிக்கொண்டிருக்கிறது தயவுசெய்து OTP ஒன்று ஒன்பது ஒன்று ஒன்பது ஆறு இரண்டு verify செய்யுங்கள்
+data/wavs_tamil_code_mix/SAR_TN_F_SPK01_14016.wav|வணக்கம் Ponni அவர்களே உங்கள் wallet issue ticket nine nine six nine eight three பற்றி சொல்லுங்கள் நான் உங்கள் என்ன help செய்ய முடியும்
+data/wavs_tamil_code_mix/SAR_TN_F_SPK01_11841.wav|Gopinath அவர்களே உங்கள் EMI issueல் நான் supervisorஉடன் விஷயம் செய்து Rupees one thousand two hundred fifty update கொடுக்கிறேன்
+data/wavs_tamil_code_mix/SAR_TN_F_SPK01_12373.wav|வணக்கம் Kathiresan அவர்களே உங்கள் failed recharge issueக்கு நீங்கள் எனக்கு OTP இரண்டு ஒன்று நான்கு நான்கு எட்டு ஏழு verify செய்ய முடியுமா
+data/wavs_tamil_code_mix/SAR_TN_F_SPK01_16791.wav|Kaveri அவர்களே உங்கள் walletல் Rupees one thousand two hundred fifty transaction delayக்கு நாங்கள் sincerely apologize செய்கிறோம்
+data/wavs_tamil_code_mix/SAR_TN_F_SPK01_15670.wav|கவலைப்படாதீர்கள் Thendral அவர்களே உங்கள் Rupees eight thousand nine hundred failed UPI transaction refund விரைவில் process ஆகிவிடும்
+data/wavs_tamil_code_mix/SAR_TN_F_SPK01_12096.wav|Saravanan அவர்களே KYC verificationல் ஏற்பட்ட அசௌகரியத்திற்கு மன்னிப்பு கேட்கிறேன் உங்கள் OTP இரண்டு ஆறு ஆறு எட்டு நான்கு ஒன்று இப்போது verify ஆகிக்கொண்டிருக்கிறது
+data/wavs_tamil_code_mix/SAR_TN_F_SPK01_12172.wav|வணக்கம் Ramalingam அவர்களே Kavya Bank of India Insurance supportக்கு உங்களை வரவேற்கிறோம் தயவுசெய்து உங்கள் policy number அல்லது OTP ஒன்பது இரண்டு நான்கு ஒன்று மூன்று ஐந்து சொல்லுங்கள்
+data/wavs_tamil_code_mix/SAR_TN_F_SPK01_12282.wav|வணக்கம் Palanisamy அவர்களே உங்கள் Rupees fifteen thousand fraud concernல் நான் உங்களுக்கு முழுமையாக help செய்வேன்
+data/wavs_tamil_code_mix/SAR_TN_F_SPK01_12911.wav|வணக்கம் Selvarani அவர்களே customer supportக்கு உங்களை வரவேற்கிறோம் உங்கள் app login issueக்கு நான் உங்களுக்கு எப்படி help செய்ய முடியும் போன்ற OTP three five four three five one
+data/wavs_tamil_code_mix/SAR_TN_F_SPK01_16061.wav|Kumaran அவர்களே உங்கள் credit card blocked issueல் நான் ஒன்று high priority ticket நான்கு மூன்று ஏழு பூஜ்ஜியம் ஆறு ஏழு escalate செய்துவிட்டேன்
+data/wavs_tamil_code_mix/SAR_TN_F_SPK01_16327.wav|Aparna அவர்களே உங்கள் EMI issueக்கு நான் ticket five three seven five seven nine escalate செய்துவிட்டேன் கவலைப்படாதீர்கள்
+data/wavs_tamil_code_mix/SAR_TN_F_SPK01_11903.wav|Chinnathayi அவர்களே உங்கள் ticket eight seven two five three nineல் ஏற்பட்ட delay மற்றும் அசௌகரியத்திற்கு நான் sincerely apologize செய்கிறேன்
+data/wavs_tamil_code_mix/SAR_TN_F_SPK01_13774.wav|Sankaralingam அவர்களே நான் உங்கள் fifteen thousand refund issueஐ உடனடியாக escalate செய்துகொண்டிருக்கிறேன்
+data/wavs_tamil_code_mix/SAR_TN_F_SPK01_15935.wav|Meenakshisundaram அவர்களே நான் இந்த UPI transaction issueஐ ticket ஒன்பது ஐந்து ஏழு மூன்று ஒன்பது எட்டு உடன் உடனடியாக escalate செய்துகொண்டிருக்கிறேன்
+data/wavs_tamil_code_mix/SAR_TN_F_SPK01_14992.wav|வணக்கம் Sathya அவர்களே தயவுசெய்து OTP ஆறு ஆறு பூஜ்ஜியம் மூன்று ஒன்று மூன்று சொல்லுங்கள்
+data/wavs_tamil_code_mix/SAR_TN_F_SPK01_14072.wav|வணக்கம் Ponnusamy அவர்களே Vijay Birla Fashion and Retail Limitedக்கு உங்களை வரவேற்கிறோம் KYC verificationக்கு தயவுசெய்து OTP ஒன்பது ஒன்பது எட்டு எட்டு ஐந்து மூன்று confirm செய்யுங்கள்
+data/wavs_tamil_code_mix/SAR_TN_F_SPK01_16115.wav|வணக்கம் Subbulakshmi அவர்களே எனக்கு புரிகிறது Rupees nine hundred ninety nine fraud transaction குறித்து நீங்கள் கவலை
+data/wavs_tamil_code_mix/SAR_TN_F_SPK01_15117.wav|வணக்கம் Ponraj அவர்களே account verificationக்கு தயவுசெய்து நீங்கள் உங்கள் registered mobile numberல் வந்தது ஆனது OTP மூன்று நான்கு ஏழு ஒன்று ஒன்று நான்கு confirm செய்யுங்கள்
+data/wavs_tamil_code_mix/SAR_TN_F_SPK01_17626.wav|Ramalingam நான் உங்கள் கவலை புரிந்துகொள்கிறேன் நீங்கள் OTP ஏழு பூஜ்ஜியம் மூன்று ஏழு இரண்டு ஏழு குறித்து எது தகவல் கொடுத்தேன் உள்ளது நான் அந்த அவசியம் நடவடிக்கை செய்துகொண்டிருக்கிறேன்
+data/wavs_tamil_code_mix/SAR_TN_F_SPK01_17000.wav|Parvathi அவர்களே வருந்துகிறேன் உங்கள் credit card block முடிந்துவிட்டது தயவுசெய்து verificationக்கு OTP one two five five three one சொல்லுங்கள்
+data/wavs_tamil_code_mix/SAR_TN_F_SPK01_13917.wav|வணக்கம் Vani அவர்களே உங்கள் wallet issueக்கு தயவுசெய்து OTP seven three eight eight five eight verify செய்யுங்கள்
+data/wavs_tamil_code_mix/SAR_TN_F_SPK01_15259.wav|வணக்கம் Aravinth அவர்களே உங்கள் telecom complaint ticket ID eight three seven nine six oneக்கு நான் உங்களுக்கு எப்படி help செய்ய முடியும்
+data/wavs_tamil_code_mix/SAR_TN_F_SPK01_17631.wav|Vanaja அவர்களே நான் உங்கள் account தகவல் சரிபார்ப்பு கொண்டிருக்கிறேன் தயவுசெய்து OTP ஐந்து ஒன்று நான்கு ஒன்பது ஒன்பது ஒன்றுஐ உறுதிப்படுத்தல் செய்யுங்கள்
+data/wavs_tamil_code_mix/SAR_TN_F_SPK01_16916.wav|வணக்கம் Jayanthi அவர்களே உங்கள் credit card block ஏற்படுவதால் காரணமாக ஏற்பட்ட inconvenienceக்கு நாங்கள் sincerely apologize செய்கிறோம் தயவுசெய்து OTP நான்கு ஐந்து ஆறு நான்கு நான்கு ஆறு verify செய்யுங்கள்
+data/wavs_tamil_code_mix/SAR_TN_F_SPK01_15709.wav|Chellammal அவர்களே நான் உங்கள் Rupees four hundred fifty refund issueஐ நிச்சயமாக escalate செய்து தருகிறேன்
+data/wavs_tamil_code_mix/SAR_TN_F_SPK01_13804.wav|Geetha அவர்களே உங்கள் accountஇடமிருந்து Rupees one thousand two hundred fifty fraudulent transaction குறித்து ஏற்பட்ட அசௌகரியத்திற்கு நாங்கள் sincerely apologize செய்கிறோம்
+data/wavs_tamil_code_mix/SAR_TN_F_SPK01_17389.wav|Rajesh அவர்களே Rupees four thousand five hundred refund issueக்கு apologize
+data/wavs_tamil_code_mix/SAR_TN_F_SPK01_15542.wav|வணக்கம் Abinaya அவர்களே app login issueக்கு உங்கள் OTP மூன்று ஒன்று ஒன்பது ஒன்று ஆறு எட்டு verify செய்ய முடியும்
+data/wavs_tamil_code_mix/SAR_TN_F_SPK01_12163.wav|Palanisamy அவர்களே உங்கள் credit card block issueல் நான் ஒன்று high priority ticket இரண்டு ஒன்று ஒன்பது நான்கு ஆறு ஒன்பது raise செய்துவிட்டேன்
+data/wavs_tamil_code_mix/SAR_TN_F_SPK01_13976.wav|வணக்கம் Palaniammal அவர்களே உங்கள் KYC verificationக்கு தயவுசெய்து நாங்கள் OTP four seven six two six two சொல்லுங்கள்
+data/wavs_tamil_code_mix/SAR_TN_F_SPK01_13897.wav|வணக்கம் Sengoda அவர்களே நான் உங்கள் insurance ticket six two seven two nine two check செய்துகொண்டிருக்கிறேன்
+data/wavs_tamil_code_mix/SAR_TN_F_SPK01_12775.wav|Muniraj அவர்களே கவலைப்படாதீர்கள் உங்கள் KYC verification processல் வரும் கொண்டிருக்கிறோம் ticket ஐந்து இரண்டு ஒன்று ஐந்து எட்டு நான்கு issueஐ நான் personally check செய்துகொண்டிருக்கிறேன்
+data/wavs_tamil_code_mix/SAR_TN_F_SPK01_12691.wav|Mookaiah அவர்களே கவலைப்படாதீர்கள் நான் உங்கள் account verification process check செய்துகொண்டிருக்கிறேன் தயவுசெய்து OTP nine four eight five one four confirm செய்யுங்கள்
+data/wavs_tamil_code_mix/SAR_TN_F_SPK01_12895.wav|கவலைப்படாதீர்கள் Janani அவர்களே உங்கள் Rupees fifteen thousand insurance claim issue நிச்சயமாக resolve ஆகிவிடும்
+data/wavs_tamil_code_mix/SAR_TN_F_SPK01_14701.wav|எனக்கு இந்த transaction issue மிகவும் வருத்தம் உள்ளது Janani அவர்களே நான் உங்கள் refund Rupees four hundred fifty process செய்துகொண்டிருக்கிறேன்
+data/wavs_tamil_code_mix/SAR_TN_F_SPK01_12820.wav|Thenmozhi அவர்களே நான் உங்கள் account verification சிரமம் புரிந்துகொள்கிறேன் தயவுசெய்து OTP ஆறு நான்கு எட்டு இரண்டு ஒன்று இரண்டு confirm செய்யுங்கள் நாங்கள் இதை உடனடியாக resolve செய்து கொடுப்போம்
+data/wavs_tamil_code_mix/SAR_TN_F_SPK01_15573.wav|Prakash அவர்களே Rupees four hundred fifty failed UPI transactionக்கு நான் இந்த issue escalate செய்ய
+data/wavs_tamil_code_mix/SAR_TN_F_SPK01_13766.wav|Kannadasan அவர்களே உங்கள் KYC verification issueக்கு நீங்கள் இந்த ticket three six seven three zero two resolutionல் feedback கொடுக்க விரும்புகிறீர்களா
+data/wavs_tamil_code_mix/SAR_TN_F_SPK01_14360.wav|Ammani அவர்களே உங்கள் credit card unblock process complete முடிந்துவிட்டது ticket four one six four three one close செய்துவிட்டேன்
+data/wavs_tamil_code_mix/SAR_TN_F_SPK01_17569.wav|பொறுமை வைக்கக்காக நன்றி Prakash குறித்து OTP ஏழு ஐந்து எட்டு ஏழு ஆறு ஐந்து தகவல்க்காக தயவுசெய்து உங்கள் குடும்பப்பெயர் சொல்லுங்கள்
+data/wavs_tamil_code_mix/SAR_TN_F_SPK01_12505.wav|Bharath அவர்களே உங்கள் app login issueக்கு escalate செய்வதற்கு நீங்கள் OTP eight eight eight seven nine one verify செய்ய முடியுமா
+data/wavs_tamil_code_mix/SAR_TN_F_SPK01_16193.wav|Vanaja அவர்களே எனக்கு புரிகிறது நீங்கள் இந்த issueஇடமிருந்து சிரமம் உள்ளன உங்கள் complaint ticket ஒன்று ஒன்று நான்கு ஒன்று ஏழு பூஜ்ஜியம்ல் escalate ஆக முடித்துவிட்டேன் உள்ளது
+data/wavs_tamil_code_mix/SAR_TN_F_SPK01_13019.wav|வணக்கம் Vaigai அவர்களே Vimala Limited supportக்கு உங்களை வரவேற்கிறோம் உங்கள் insurance policy verificationக்கு தயவுசெய்து OTP three five three one four one சொல்லுங்கள்
+data/wavs_tamil_code_mix/SAR_TN_F_SPK01_13940.wav|Gayathri அவர்களே Rupees four thousand five hundred refundல் delayக்கு apologize செய்கிறேன் தயவுசெய்து ஒரு minute holdல் இருங்கள்
+data/wavs_tamil_code_mix/SAR_TN_F_SPK01_12504.wav|வணக்கம் Sengamalam அவர்களே உங்கள் Rupees eight thousand nine hundred refundல் delayக்கு நாங்கள் வருந்துகிறோம்
+data/wavs_tamil_code_mix/SAR_TN_F_SPK01_16727.wav|வணக்கம் Devi அவர்களே உங்கள் insurance policy status check செய்வதற்கு நீங்கள் OTP இரண்டு ஐந்து ஏழு நான்கு ஒன்று நான்கு சொல்லுங்கள் முடியுமா
+data/wavs_tamil_code_mix/SAR_TN_F_SPK01_14334.wav|Anbarasu அவர்களே உங்கள் Rupees fifteen thousand failed transaction refund விரைவில் process ஆகிவிடும் கவலைப்படாதீர்கள்
+data/wavs_tamil_code_mix/SAR_TN_F_SPK01_14118.wav|Kanchana அவர்களே எனக்கு புரிகிறது உங்கள் சிரமம் recharge failed ஆகும்போது உங்களுக்கு எப்படி தொடங்கியது தயவுசெய்து இந்த feedback ticket three five two nine eight fourல் சொல்லுங்கள்
+data/wavs_tamil_code_mix/SAR_TN_F_SPK01_17201.wav|Kurinji அவர்களே உங்கள் Rupees nine hundred ninety nine EMI issueஐ verify செய்வதற்கு தயவுசெய்து சிறிது தாமதம் holdல் இருங்கள் inconvenienceக்கு மன்னிப்பு கேட்கிறேன்
+data/wavs_tamil_code_mix/SAR_TN_F_SPK01_14259.wav|Kaveri அவர்களே உங்கள் cashback issueல் ticket three three zero nine seven seven raise செய்துவிட்டேன் விரைவில் உங்களுக்கு update கிடைத்துவிடும்
+data/wavs_tamil_code_mix/SAR_TN_F_SPK01_16756.wav|Karthik அவர்களே Rupees fifteen thousand refundல் delayக்கு நான் sincerely apologize செய்கிறேன்
+data/wavs_tamil_code_mix/SAR_TN_F_SPK01_13966.wav|Ramanathan அவர்களே எனக்கு புரிகிறது உங்கள் Rupees four hundred fifty cashback இப்போது வரை credit இல்லை ஆனது உள்ளது நான் இந்த issueஐ check செய்கிறேன்
+data/wavs_tamil_code_mix/SAR_TN_F_SPK01_16545.wav|Thirumurugan அவர்களே Rupees four thousand five hundred cashback delayக்கு நான் sincerely apologize செய்கிறேன் நான் உங்கள் complaint escalate செய்துகொண்டிருக்கிறேன்
+data/wavs_tamil_code_mix/SAR_TN_F_SPK01_15151.wav|வணக்கம் Vellaisamy அவர்களே உங்கள் credit card block ஆனதற்காக நாங்கள் வருந்துகிறோம் தயவுசெய்து OTP ஏழு ஏழு பூஜ்ஜியம் மூன்று எட்டு ஒன்பது verify செய்யுங்கள்
+data/wavs_tamil_code_mix/SAR_TN_F_SPK01_16738.wav|Ponni அவர்களே recharge fail ஆனதற்காக நாங்கள் வருந்துகிறோம் நான் உங்கள் ticket two two zero zero two zero இப்போது check செய்துகொண்டிருக்கிறேன்
+data/wavs_tamil_code_mix/SAR_TN_F_SPK01_12317.wav|வணக்கம் Chidambaram அவர்களே உங்கள் account verificationக்கு தயவுசெய்து OTP ஏழு பூஜ்ஜியம் மூன்று ஏழு ஏழு ஏழு confirm செய்யுங்கள்
+data/wavs_tamil_code_mix/SAR_TN_F_SPK01_13342.wav|Rani அவர்களே Rupees four thousand five hundred இந்த failed recharge issueஐ resolve செய்வதற்கு உங்கள் valuable feedback தேவை
+data/wavs_tamil_code_mix/SAR_TN_F_SPK01_12807.wav|Rajesh அவர்களே உங்கள் Rupees four thousand five hundred cashback issueக்கு நான் sincerely apologize செய்கிறேன் தயவுசெய்து ஒன்று minute hold செய்யுங்கள்
+data/wavs_tamil_code_mix/SAR_TN_F_SPK01_12502.wav|Krishnamurthy அவர்களே நீங்கள் கவலைப்படாதீர்கள் நான் உங்கள் insurance claim issue ticket இரண்டு ஐந்து ஒன்பது இரண்டு எட்டு ஏழுல் escalate செய்து கொடுத்தேன் உள்ளது
+data/wavs_tamil_code_mix/SAR_TN_F_SPK01_11953.wav|கவலைப்படாதீர்கள் Anitha அவர்களே நான் உங்கள் wallet issue check செய்துகொண்டிருக்கிறேன் மற்றும் Rupees eight thousand nine hundred refund விரைவில் process செய்கிறேன்
+data/wavs_tamil_code_mix/SAR_TN_F_SPK01_17461.wav|நான் உங்களுக்கு சுருக்கத்தில் சொல்கிறேன் என்று Rani account தொடர்பான OTP ஒன்பது ஒன்பது எட்டு மூன்று நான்கு எட்டு பயன்பாடு எப்படி செய்தேன் ஆகிவிடும்
+data/wavs_tamil_code_mix/SAR_TN_F_SPK01_16271.wav|கவலைப்படாதீர்கள் Kalpana அவர்களே நான் உங்கள் EMI issue ticket மூன்று நான்கு ஒன்பது ஏழு இரண்டு நான்கு உடன் check செய்துகொண்டிருக்கிறேன்
+data/wavs_tamil_code_mix/SAR_TN_F_SPK01_13343.wav|Chitra அவர்களே Rupees eight thousand nine hundred cashback issue check செய்துகொண்டிருக்கிறேன்
+data/wavs_tamil_code_mix/SAR_TN_F_SPK01_12971.wav|Ashwin அவர்களே உங்கள் wallet issueல் Rupees one thousand two hundred fifty transaction delayக்கு நான் sincerely apologize செய்கிறேன்
+data/wavs_tamil_code_mix/SAR_TN_F_SPK01_15870.wav|Deepa அவர்களே இந்த Rupees one thousand two hundred fifty failed recharge issueல் நீங்கள் நாங்கள் உங்கள் feedback கொடுக்க விரும்புகிறீர்களா
+data/wavs_tamil_code_mix/SAR_TN_F_SPK01_12823.wav|வணக்கம் Padma அவர்களே உங்கள் insurance policy payment verificationக்கு நீங்கள் எனக்கு உங்கள் OTP one six nine two six one confirm செய்து முடியுமா
+data/wavs_tamil_code_mix/SAR_TN_F_SPK01_12597.wav|வணக்கம் Bharath நான் பார்த்து முடியும் என்று உங்கள் Rupees nine hundred ninety nine recharge failed ஆனது உள்ளது
+data/wavs_tamil_code_mix/SAR_TN_F_SPK01_15647.wav|Jayanthi அவர்களே உங்கள் delivery complaint ticket ஒன்பது மூன்று ஆறு ஏழு மூன்று ஐந்துல் எங்கள் supportஇடமிருந்து உங்களுக்கு எப்படி help கிடைத்தது தயவுசெய்து feedback கொடுங்கள்
+data/wavs_tamil_code_mix/SAR_TN_F_SPK01_11908.wav|வணக்கம் Kalaivani அவர்களே credit card block issueல் helpக்கு நீங்கள் OTP எட்டு பூஜ்ஜியம் பூஜ்ஜியம் எட்டு ஏழு நான்கு confirm செய்து முடியுமா
+data/wavs_tamil_code_mix/SAR_TN_F_SPK01_14129.wav|Selvi அவர்களே உங்கள் refund Rupees nine hundred ninety nine விரைவில் process ஆகிவிடும்
+data/wavs_tamil_code_mix/SAR_TN_F_SPK01_14528.wav|வணக்கம் Vijay அவர்களே உங்கள் fraud concernக்கு நான் உங்கள் account check செய்துகொண்டிருக்கிறேன் தயவுசெய்து OTP இரண்டு ஆறு ஆறு பூஜ்ஜியம் நான்கு இரண்டு confirm செய்யுங்கள்
+data/wavs_tamil_code_mix/SAR_TN_F_SPK01_17026.wav|வணக்கம் Yasodha அவர்களே H L V LIMITED customer supportக்கு உங்களை வரவேற்கிறோம் நான் உங்கள் Rupees eight thousand nine hundred pending refund issueல் எப்படி help செய்ய முடியும்
+data/wavs_tamil_code_mix/SAR_TN_F_SPK01_17549.wav|எனக்கு Sigachi Industries Limited தொடர்பான உங்கள் கவலை புரிந்து வருகிறது எதன் ticket எண் four four four five two five உள்ளது
+data/wavs_tamil_code_mix/SAR_TN_F_SPK01_16471.wav|Geetha அவர்களே Rupees one thousand two hundred fifty failed transactionக்கு சொல்லுங்கள்
+data/wavs_tamil_code_mix/SAR_TN_F_SPK01_14235.wav|Kannappan அவர்களே Rupees nine hundred ninety nine paymentல் ஏற்பட்ட தாமதத்திற்காக நாங்கள் sincerely apologize செய்கிறோம்
+data/wavs_tamil_code_mix/SAR_TN_F_SPK01_15666.wav|Geetha அவர்களே login issueக்கு apologize செய்கிறேன் நான் OTP நான்கு ஒன்று ஒன்று ஏழு எட்டு பூஜ்ஜியம் check செய்துகொண்டிருக்கிறேன் தயவுசெய்து holdல் இருங்கள்
+data/wavs_tamil_code_mix/SAR_TN_F_SPK01_17597.wav|எனக்கு உங்கள் கவலை புரிந்து வருகிறது Ammani சரிபார்ப்புக்காக தயவுசெய்து OTP ஆறு ஒன்று நான்கு பூஜ்ஜியம் எட்டு நான்குஐ உறுதிப்படுத்தல் செய்யுங்கள்
+data/wavs_tamil_code_mix/SAR_TN_F_SPK01_15190.wav|Krishnaveni அவர்களே தயவுசெய்து OTP மூன்று ஒன்பது மூன்று மூன்று ஒன்பது ஒன்று confirm செய்யுங்கள்
+data/wavs_tamil_code_mix/SAR_TN_F_SPK01_13858.wav|Ganesh அவர்களே நான் உங்கள் fraud concernஐ supervisorக்கு escalate செய்துகொண்டிருக்கிறேன் தயவுசெய்து ticket one zero four five four eight note செய்யுங்கள்
+data/wavs_tamil_code_mix/SAR_TN_F_SPK01_13227.wav|வணக்கம் Malini அவர்களே KYC verificationக்கு OTP ஏழு ஆறு நான்கு இரண்டு ஆறு ஆறு சொல்லுங்கள்
+data/wavs_tamil_code_mix/SAR_TN_F_SPK01_14460.wav|உங்கள் Rupees four thousand five hundred EMI payment issueக்கு ஏற்பட்ட அசௌகரியத்திற்கு sincerely apologize செய்கிறோம் Vasuki அவர்களே தயவுசெய்து இரண்டு minute holdல் இருங்கள்
+data/wavs_tamil_code_mix/SAR_TN_F_SPK01_15553.wav|Balasubramaniam அவர்களே உங்கள் Rupees four hundred fifty refund process ஆகிக்கொண்டிருக்கிறது
+data/wavs_tamil_code_mix/SAR_TN_F_SPK01_11834.wav|மன்னிக்கவும் Veluchamy அவர்களே உங்கள் Rupees eight thousand nine hundred cashback issueக்கு எனக்கு ஒன்று minute holdல் வைக்க ஆகும்
+data/wavs_tamil_code_mix/SAR_TN_F_SPK01_13929.wav|வணக்கம் Shobana அவர்களே உங்கள் blocked credit cardக்கு நான் OTP two eight two four nine five verify செய்துகொண்டிருக்கிறேன்
+data/wavs_tamil_code_mix/SAR_TN_F_SPK01_13104.wav|Muthammal அவர்களே உங்கள் insurance claim ticket six six one one four oneல் ஏற்பட்ட delayக்கு sincerely apologize செய்கிறோம் தயவுசெய்து உங்கள் feedback கொடுங்கள்
+data/wavs_tamil_code_mix/SAR_TN_F_SPK01_12287.wav|கவலைப்படாதீர்கள் Sujatha அவர்களே KYC verificationல் ஏற்பட்ட தாமதத்திற்காக மன்னிப்பு விரும்புகிறோம் உங்கள் OTP nine four two one five zero உள்ளது
+data/wavs_tamil_code_mix/SAR_TN_F_SPK01_13235.wav|Thulasi அவர்களே app login issueக்கு நாங்கள் வருந்துகிறோம் நீங்கள் உங்கள் OTP six one five four three one verify செய்ய முடியுமா
+data/wavs_tamil_code_mix/SAR_TN_F_SPK01_17161.wav|Palanisamy அவர்களே எனக்கு புரிகிறது உங்கள் frustration ஆனால் account verificationக்கு OTP எட்டு எட்டு பூஜ்ஜியம் ஒன்று பூஜ்ஜியம் இரண்டு confirm செய்ய அவசியம் உள்ளது
+data/wavs_tamil_code_mix/SAR_TN_F_SPK01_15023.wav|Rani அவர்களே Rupees nine hundred ninety nine refundல் delayக்கு நாங்கள் sincerely apologize செய்கிறோம் உங்கள் experienceல் feedback கொடுங்கள்
+data/wavs_tamil_code_mix/SAR_TN_F_SPK01_13301.wav|Manimegalai அவர்களே கவலைப்படாதீர்கள் நான் இப்போது உங்கள் delivery complaint ticket ஐந்து ஒன்பது ஒன்பது மூன்று ஆறு எட்டு escalate செய்துகொண்டிருக்கிறேன்
+data/wavs_tamil_code_mix/SAR_TN_F_SPK01_15462.wav|Vaigai அவர்களே நான் உங்கள் EMI issue குறித்து frustration புரிந்துகொள்கிறேன் தயவுசெய்து கவலைப்படாதீர்கள் நான் Rupees eight thousand nine hundred refund process செய்ய கொண்டிருக்கிறேன்
+data/wavs_tamil_code_mix/SAR_TN_F_SPK01_14482.wav|வணக்கம் Muniyandi அவர்களே உங்கள் Cashback issueக்கு கவலைப்படாதீர்கள் நான் supervisorஉடன் விஷயம் செய்து Rupees one thousand two hundred fifty refund process செய்கிறேன்
+data/wavs_tamil_code_mix/SAR_TN_F_SPK01_12090.wav|Priya அவர்களே நான் supervisorஇடமிருந்து confirm செய்து எடுத்தேன் உள்ளது உங்கள் eight thousand nine hundred refund விரைவில் process ஆகிவிடும்
+data/wavs_tamil_code_mix/SAR_TN_F_SPK01_13147.wav|வணக்கம் Muniyandi அவர்களே Oil India Limited supportக்கு உங்களை வரவேற்கிறோம் தயவுசெய்து உங்கள் OTP nine four three five nine six verify செய்யுங்கள்
+data/wavs_tamil_code_mix/SAR_TN_F_SPK01_12257.wav|கவலைப்படாதீர்கள் Selvam அவர்களே நான் உங்கள் fraud concernஐ supervisorஉடன் discuss செய்து Rupees one thousand two hundred fifty refund செய்கிறேன்
+data/wavs_tamil_code_mix/SAR_TN_F_SPK01_12745.wav|Kaveri அவர்களே உங்கள் KYC verificationக்கு OTP ஒன்பது ஒன்பது ஏழு ஒன்பது எட்டு ஒன்பது வெற்றிகரமாக submit முடிந்துவிட்டது கவலைப்படாதீர்கள் உங்கள் account விரைவில் update ஆகிவிடும்
+data/wavs_tamil_code_mix/SAR_TN_F_SPK01_11957.wav|Chellammal அவர்களே Rupees eight thousand nine hundred cashback issueல் உங்கள் என்ன feedback உள்ளது தயவுசெய்து சொல்லுங்கள்
+data/wavs_tamil_code_mix/SAR_TN_F_SPK01_15476.wav|கவலைப்படாதீர்கள் Annamalai அவர்களே நான் உங்கள் Rupees eight thousand nine hundred failed UPI transaction இப்போது check செய்துகொண்டிருக்கிறேன்
+data/wavs_tamil_code_mix/SAR_TN_F_SPK01_14520.wav|Kannappan அவர்களே கவலைப்படாதீர்கள் நான் உங்கள் complaint ticket one nine six three seven six supervisorக்கு escalate செய்துகொண்டிருக்கிறேன்
+data/wavs_tamil_code_mix/SAR_TN_F_SPK01_15865.wav|வணக்கம் Thulasi அவர்களே உங்கள் EMI accountல் Rupees fifteen thousand issue தெரிகிறது கொண்டிருக்கிறது உள்ளது நீங்கள் verify செய்வோம்
+data/wavs_tamil_code_mix/SAR_TN_F_SPK01_17057.wav|கவலைப்படாதீர்கள் Barath அவர்களே நான் உங்கள் EMI issue மற்றும் Rupees one thousand two hundred fifty payment இப்போது check செய்துகொண்டிருக்கிறேன்
+data/wavs_tamil_code_mix/SAR_TN_F_SPK01_17621.wav|நான் உங்களுக்கு இப்போது Sarala அவர்களே இணைத்து கொண்டிருக்கிறேன் எது உங்கள் OTP நான்கு ஒன்று ஆறு பூஜ்ஜியம் ஆறு ஒன்று தொடர்பான விஷயத்தில் உதவி செய்வோம்
+data/wavs_tamil_code_mix/SAR_TN_F_SPK01_12858.wav|Anitha அவர்களே உங்கள் EMI issueக்கு நான் உங்கள் complaint ticket three nine nine zero two five supervisorக்கு escalate செய்துகொண்டிருக்கிறேன்
+data/wavs_tamil_code_mix/SAR_TN_F_SPK01_13294.wav|Vasanth அவர்களே Rupees eight thousand nine hundred failed UPI transactionக்கு apologize செய்கிறோம் கவலைப்படாதீர்கள் இந்த resolve ஆகிவிடும்
+data/wavs_tamil_code_mix/SAR_TN_F_SPK01_17363.wav|Vishal அவர்களே எனக்கு புரிகிறது OTP ஐந்து எட்டு இரண்டு ஒன்று ஒன்று எட்டு உடன் account verificationல் உங்களுக்கு issue வருகிறது நான் இதை escalate செய்கிறேன்
+data/wavs_tamil_code_mix/SAR_TN_F_SPK01_11815.wav|கவலைப்படாதீர்கள் Marakathammal அவர்களே நான் உங்கள் wallet issue supervisorக்கு escalate செய்துவிட்டேன் மற்றும் ticket நான்கு ஐந்து ஐந்து பூஜ்ஜியம் இரண்டு எட்டுல் உங்களுக்கு விரைவில் update கிடைக்கும்
+data/wavs_tamil_code_mix/SAR_TN_F_SPK01_12140.wav|வணக்கம் Ponnammal அவர்களே C L Educate Limitedக்கு உங்களை வரவேற்கிறோம் தயவுசெய்து உங்கள் OTP நான்கு இரண்டு பூஜ்ஜியம் நான்கு ஏழு ஆறு verify செய்யுங்கள் அதனால் நான் உங்கள் telecom complaint check செய்து முடியும்
+data/wavs_tamil_code_mix/SAR_TN_F_SPK01_12157.wav|வணக்கம் Gowtham அவர்களே உங்கள் ticket one eight six four one five check செய்துகொண்டிருக்கிறேன்
+data/wavs_tamil_code_mix/SAR_TN_F_SPK01_13603.wav|வணக்கம் Akshaya அவர்களே customer supportக்கு உங்களை வரவேற்கிறோம் நான் உங்கள் ticket ஐந்து பூஜ்ஜியம் ஒன்பது நான்கு பூஜ்ஜியம் பூஜ்ஜியம் பார்த்து கொண்டிருக்கிறேன் சொல்லுங்கள் என்ன issue வருகிறது
+data/wavs_tamil_code_mix/SAR_TN_F_SPK01_13356.wav|வணக்கம் Periyasamy அவர்களே உங்கள் failed recharge ticket ஐந்து ஒன்பது மூன்று ஆறு எட்டு ஐந்து நான் இப்போது check செய்துகொண்டிருக்கிறேன்
+data/wavs_tamil_code_mix/SAR_TN_F_SPK01_16900.wav|வணக்கம் Anjali அவர்களே எனக்கு புரிகிறது உங்கள் Rupees fifteen thousand refund இப்போது pending உள்ளது நான் backend teamஇடமிருந்து இதன் update எடு கொண்டிருக்கிறேன்
+data/wavs_tamil_code_mix/SAR_TN_F_SPK01_16760.wav|Anbarasu அவர்களே four hundred fifty failed UPI transactionல் help தேவை
+data/wavs_tamil_code_mix/SAR_TN_F_SPK01_12399.wav|Vasuki அவர்களே கவலைப்படாதீர்கள் நான் supervisorஉடன் விஷயம் உள்ளது உங்கள் wallet issue ticket two five zero three nine oneல் resolve ஆகிவிடும்
+data/wavs_tamil_code_mix/SAR_TN_F_SPK01_16329.wav|வணக்கம் Aravindan அவர்களே உங்கள் walletல் Rupees one thousand two hundred fifty transaction issueஐ நான் இப்போது check செய்துகொண்டிருக்கிறேன் தயவுசெய்து ஒரு minute holdல் இருங்கள்
+data/wavs_tamil_code_mix/SAR_TN_F_SPK01_17693.wav|Saravanan அவர்களே உங்கள் பொறுமைக்காக நன்றி உங்கள் விஷயம் இப்போது முடக்கம் உள்ளது தயவுசெய்து OTP நான்கு மூன்று பூஜ்ஜியம் ஒன்பது இரண்டு ஆறு பயன்பாடு செய்யுங்கள்
+data/wavs_tamil_code_mix/SAR_TN_F_SPK01_15008.wav|Alagarsamy அவர்களே Rupees one thousand two hundred fifty refund delayக்கு sorry
+data/wavs_tamil_code_mix/SAR_TN_F_SPK01_13367.wav|Balasubramaniam அவர்களே நீங்கள் கவலைப்படாதீர்கள் நான் supervisorஇடமிருந்து உங்கள் KYC verification மற்றும் OTP நான்கு நான்கு எட்டு ஐந்து ஏழு ஆறு confirm செய்ய கொண்டிருக்கிறேன்
+data/wavs_tamil_code_mix/SAR_TN_F_SPK01_14555.wav|Sornam அவர்களே Rupees four hundred fifty EMI paymentல் ஏற்பட்ட பிரச்சனைக்காக நான் sincerely apologize செய்கிறேன்
+data/wavs_tamil_code_mix/SAR_TN_F_SPK01_15285.wav|வணக்கம் Padmini அவர்களே customer supportக்கு உங்களை வரவேற்கிறோம் சொல்லுங்கள் நான் உங்கள் wallet issue மற்றும் ticket five one five eight zero sevenல் எப்படி help செய்ய முடியும்
+data/wavs_tamil_code_mix/SAR_TN_F_SPK01_12883.wav|Ajith அவர்களே Rupees nine hundred ninety nine refund delayல் உங்கள் feedback சொல்லுங்கள்
+data/wavs_tamil_code_mix/SAR_TN_F_SPK01_13327.wav|Muniyammal அவர்களே account verificationல் ஏற்பட்ட delayக்கு sincerely apologize செய்கிறோம் தயவுசெய்து OTP ஏழு மூன்று ஆறு ஆறு நான்கு ஒன்று confirm செய்யுங்கள்
+data/wavs_tamil_code_mix/SAR_TN_F_SPK01_14754.wav|Shakthi அவர்களே delivery delayக்கு நான் sincerely apologize செய்கிறேன் உங்கள் ticket ஏழு எட்டு பூஜ்ஜியம் மூன்று எட்டு பூஜ்ஜியம்ல் update check செய்துகொண்டிருக்கிறேன்
+data/wavs_tamil_code_mix/SAR_TN_F_SPK01_17452.wav|Ashwin உங்கள் விஷயம் தீர்வு ஆக முடித்துவிட்டேன் உள்ளது தயவுசெய்து OTP எட்டு ஒன்பது ஒன்று ஒன்பது மூன்று ஏழு சரிபார்க்கப்பட்ட செய்யுங்கள் அல்லது நான் உங்களுக்கு holdல் வைக்க
+data/wavs_tamil_code_mix/SAR_TN_F_SPK01_11902.wav|Muthammal அவர்களே உங்கள் refund Rupees fifteen thousand process ஆகிவிடும்
+data/wavs_tamil_code_mix/SAR_TN_F_SPK01_13787.wav|Kannan அவர்களே தயவுசெய்து OTP two two three six seven nine verify செய்யுங்கள்
+data/wavs_tamil_code_mix/SAR_TN_F_SPK01_15198.wav|Subbulakshmi அவர்களே நான் உங்கள் wallet issue சிரமம் புரிந்துகொள்கிறேன் கவலைப்படாதீர்கள் நான் இப்போது Rupees fifteen thousand refund status check செய்கிறேன்
+data/wavs_tamil_code_mix/SAR_TN_F_SPK01_13524.wav|கவலைப்படாதீர்கள் Suriya அவர்களே உங்கள் failed recharge issue நான் supervisorக்கு escalate செய்துவிட்டேன் மற்றும் ticket மூன்று ஒன்பது பூஜ்ஜியம் இரண்டு ஏழு ஆறு generate முடிந்துவிட்டது
+data/wavs_tamil_code_mix/SAR_TN_F_SPK01_11866.wav|Sengamalam அவர்களே உங்கள் app login issueக்கு மிகவும் வருந்துகிறோம் தயவுசெய்து OTP எட்டு மூன்று மூன்று ஐந்து ஐந்து ஒன்று verify செய்யுங்கள்
+data/wavs_tamil_code_mix/SAR_TN_F_SPK01_13159.wav|வணக்கம் Shakthi அவர்களே உங்கள் Rupees four hundred fifty failed rechargeக்கு நான் sincerely apologize செய்கிறேன்
+data/wavs_tamil_code_mix/SAR_TN_F_SPK01_15613.wav|Deepa அவர்களே நான் உங்கள் Rupees nine hundred ninety nine EMI issue சிரமம் புரிந்துகொள்கிறேன் நான் இப்போது உங்கள் account check செய்கிறேன்
+data/wavs_tamil_code_mix/SAR_TN_F_SPK01_16805.wav|Manimegalai அவர்களே உங்கள் wallet Rupees eight thousand nine hundred refund issueல் நான் supervisorஇடமிருந்து update எடு கொண்டிருக்கிறேன்
+data/wavs_tamil_code_mix/SAR_TN_F_SPK01_16993.wav|வணக்கம் Vaigai அவர்களே உங்கள் recharge failed issue ticket eight eight four three one six பற்றி சொல்லுங்கள் நான் உங்களுக்கு எப்படி help செய்ய முடியும்
+data/wavs_tamil_code_mix/SAR_TN_F_SPK01_17434.wav|Shakthi அவர்களே இந்த அசௌகரியத்திற்கு மிகவும் வருந்துகிறோம் உங்கள் OTP எட்டு நான்கு மூன்று இரண்டு ஒன்று ஐந்து இப்போது வெற்றிகரமாக அனுப்பப்பட்டுள்ளது
+data/wavs_tamil_code_mix/SAR_TN_F_SPK01_15535.wav|Marakathammal அவர்களே உங்கள் ticket four four five seven seven nineக்கு நீங்கள் இந்த complaint escalate செய்ய விரும்புகிறீர்களா
+data/wavs_tamil_code_mix/SAR_TN_F_SPK01_12982.wav|கவலைப்படாதீர்கள் Suresh அவர்களே நான் உங்கள் Rupees fifteen thousand fraud concernஐ இப்போது check செய்துகொண்டிருக்கிறேன்
+data/wavs_tamil_code_mix/SAR_TN_F_SPK01_12738.wav|வணக்கம் Rasu அவர்களே நீங்கள் உங்கள் account OTP நான்கு நான்கு இரண்டு ஐந்து நான்கு ஒன்று verify செய்ய விரும்புகிறோம்
+data/wavs_tamil_code_mix/SAR_TN_F_SPK01_17061.wav|Kannadasan அவர்களே உங்கள் account verificationக்கு தயவுசெய்து இப்போது OTP ஒன்பது இரண்டு இரண்டு நான்கு இரண்டு ஒன்று சொல்லுங்கள் அதனால் நான் உங்கள் issue உடனடியாக escalate செய்து முடியும்
+data/wavs_tamil_code_mix/SAR_TN_F_SPK01_15266.wav|Shanmugam அவர்களே நான் உங்கள் app login issueஐ புரிந்துகொள்கிறேன் உங்களுக்கு OTP ஒன்பது பூஜ்ஜியம் ஒன்று எட்டு பூஜ்ஜியம் இரண்டு கிடைத்தது
+data/wavs_tamil_code_mix/SAR_TN_F_SPK01_15699.wav|வணக்கம் Radha அவர்களே Vimala Consumer Healthcare India Limitedக்கு உங்களை வரவேற்கிறோம் உங்கள் EMI issueக்கு நான் இங்கே தயவுசெய்து OTP ஆறு ஒன்பது ஒன்று ஒன்பது எட்டு எட்டு verify செய்யுங்கள்
+data/wavs_tamil_code_mix/SAR_TN_F_SPK01_13939.wav|Anandhan அவர்களே நான் உங்கள் சிரமம் புரிந்துகொள்கிறேன் நாங்கள் இந்த Rupees one thousand two hundred fifty refund issueஐ நிச்சயமாக resolve செய்வோம்
+data/wavs_tamil_code_mix/SAR_TN_F_SPK01_17224.wav|வணக்கம் Ambigapathy அவர்களே உங்கள் policy Rupees four hundred fifty refund process முடிந்துவிட்டது
+data/wavs_tamil_code_mix/SAR_TN_F_SPK01_17015.wav|Barath அவர்களே Rupees fifteen thousand EMI issueக்கு ஏற்பட்ட inconvenienceக்கு sincerely apologize செய்கிறேன் கவலைப்படாதீர்கள்
+data/wavs_tamil_code_mix/SAR_TN_F_SPK01_17527.wav|Dinesh அவர்களே உங்கள் பொறுமைக்காக நன்றி தயவுசெய்து OTP two nine six six nine four இட்டு நாங்கள் உங்கள் பிரச்சனை தீர்வு செய்ய முடியுமா
+data/wavs_tamil_code_mix/SAR_TN_F_SPK01_16994.wav|Ekambaram அவர்களே கவலைப்படாதீர்கள் உங்கள் Rupees eight thousand nine hundred cashback விரைவில் process ஆகிவிடும்
+data/wavs_tamil_code_mix/SAR_TN_F_SPK01_15484.wav|வணக்கம் Malliga அவர்களே customer supportக்கு உங்களை வரவேற்கிறோம் சொல்லுங்கள் நான் உங்கள் ticket five seven seven eight one sevenல் எப்படி help செய்ய முடியும்
+data/wavs_tamil_code_mix/SAR_TN_F_SPK01_12410.wav|Vimala அவர்களே Rupees fifteen thousand EMI paymentல் ஏற்பட்ட problemக்கு நாங்கள் sincerely apologize செய்கிறோம்
+data/wavs_tamil_code_mix/SAR_TN_F_SPK01_13350.wav|வணக்கம் Mookaiah அவர்களே உங்கள் blocked credit cardக்கு நீங்கள் எனக்கு OTP ஐந்து இரண்டு ஆறு ஆறு மூன்று ஐந்து சொல்லுங்கள் முடியுமா
+data/wavs_tamil_code_mix/SAR_TN_F_SPK01_12107.wav|வணக்கம் Selvi அவர்களே உங்கள் credit card block issueக்கு ticket ஆறு பூஜ்ஜியம் இரண்டு எட்டு பூஜ்ஜியம் ஒன்று open ஆனது உள்ளது
+data/wavs_tamil_code_mix/SAR_TN_F_SPK01_12758.wav|வணக்கம் Chidambaram அவர்களே உங்கள் UPI transactionல் Rupees four hundred fifty issueக்கு நான் உங்கள் help செய்வேன்
+data/wavs_tamil_code_mix/SAR_TN_F_SPK01_16806.wav|வணக்கம் Chandran அவர்களே KYC verificationக்கு தயவுசெய்து உங்கள் OTP எட்டு ஒன்று ஏழு நான்கு ஆறு ஒன்று சொல்லுங்கள்
+data/wavs_tamil_code_mix/SAR_TN_F_SPK01_12869.wav|Thenmozhi அவர்களே தயவுசெய்து கவலைப்படாதீர்கள் உங்கள் Rupees four hundred fifty refund issue நான் supervisor ஆக personally பார்த்து கொண்டிருக்கிறேன்
+data/wavs_tamil_code_mix/SAR_TN_F_SPK01_15322.wav|Anbarasu அவர்களே delayக்கு sorry Rupees eight thousand nine hundred refund ஆகும்
+data/wavs_tamil_code_mix/SAR_TN_F_SPK01_17528.wav|எனக்கு உங்கள் கவலை புரிந்து வருகிறது எனவே The Federal Bank Limited சரிபார்ப்புக்காக OTP ஏழு ஐந்து ஐந்து ஏழு எட்டு எட்டுஐ உறுதிப்படுத்தல் செய்யுங்கள்
+data/wavs_tamil_code_mix/SAR_TN_F_SPK01_14223.wav|Padma அவர்களே உங்கள் app login issueக்கு நிச்சயமாக கவலைப்படாதீர்கள் நான் இப்போது supervisorக்கு escalate செய்து உங்கள் OTP மூன்று ஏழு எட்டு ஆறு எட்டு இரண்டு reset செய்கிறேன்
+data/wavs_tamil_code_mix/SAR_TN_F_SPK01_14785.wav|Manoharan அவர்களே உங்கள் Rupees nine hundred ninety nine refund விரைவில் உங்கள் accountல் credit ஆகிவிடும் கவலைப்படாதீர்கள்
+data/wavs_tamil_code_mix/SAR_TN_F_SPK01_12173.wav|கவலைப்படாதீர்கள் Muthulakshmi அவர்களே நான் உங்கள் OTP இரண்டு இரண்டு ஐந்து ஒன்பது பூஜ்ஜியம் பூஜ்ஜியம் verify செய்து இந்த issue resolve செய்கிறேன்
+data/wavs_tamil_code_mix/SAR_TN_F_SPK01_16719.wav|Ilamathi அவர்களே ticket ஐந்து மூன்று எட்டு பூஜ்ஜியம் எட்டு நான்கு escalated UPI transaction issueல் உங்கள் feedback என்ன உள்ளது அல்லது ஏதேனும் மற்றும் solution தேவை
+data/wavs_tamil_code_mix/SAR_TN_F_SPK01_16901.wav|Kishore அவர்களே உங்கள் app login issueக்கு கவலைப்படாதீர்கள் நான் OTP ஒன்று எட்டு ஐந்து பூஜ்ஜியம் எட்டு ஐந்துஇடமிருந்து verify செய்துகொண்டிருக்கிறேன்
+data/wavs_tamil_code_mix/SAR_TN_F_SPK01_16540.wav|Vairavan அவர்களே நான் உங்கள் ticket நான்கு ஒன்று ஆறு ஒன்று ஒன்று ஏழு பார்த்து முடிய கொண்டிருக்கிறேன் wallet issueக்கு நீங்கள் escalation request இட்டேன் உள்ளது
+data/wavs_tamil_code_mix/SAR_TN_F_SPK01_14135.wav|வணக்கம் Venkataraman அவர்களே delivery complaintக்கு call செய்வதற்கு நன்றி தயவுசெய்து உங்கள் ticket nine nine one seven one six confirm செய்யுங்கள்
+data/wavs_tamil_code_mix/SAR_TN_F_SPK01_17209.wav|Vasantha அவர்களே கவலைப்படாதீர்கள் நான் உங்கள் delivery complaint ticket eight four nine six zero nine supervisorக்கு escalate செய்துவிட்டேன்
+data/wavs_tamil_code_mix/SAR_TN_F_SPK01_11845.wav|வணக்கம் Muniyandi அவர்களே உங்கள் ticket number six two two six six six பற்றி நான் உங்கள் என்ன help செய்ய முடியும்
+data/wavs_tamil_code_mix/SAR_TN_F_SPK01_11870.wav|வணக்கம் Arasu அவர்களே உங்கள் wallet issueக்கு நீங்கள் OTP ஆறு மூன்று ஆறு பூஜ்ஜியம் ஒன்று மூன்று சொல்லுங்கள் முடியுமா
+data/wavs_tamil_code_mix/SAR_TN_F_SPK01_15427.wav|Jayanthi அவர்களே உங்கள் Rupees eight thousand nine hundred cashback issueல் எங்கள் team வேலை செய்துகொண்டிருக்கிறது கவலைப்படாதீர்கள்
+data/wavs_tamil_code_mix/SAR_TN_F_SPK01_13124.wav|Ilango அவர்களே உங்கள் UPI transactionல் Rupees four hundred fifty payment fail ஆனது உள்ளது நான் இப்போது check செய்து உங்களுக்கு update கொடுக்கிறேன்
+data/wavs_tamil_code_mix/SAR_TN_F_SPK01_15371.wav|Divya அவர்களே உங்கள் wallet issueக்கு நாங்கள் ஒன்று escalation ticket six eight one six five seven raise செய்துகொண்டிருக்கிறோம்
+data/wavs_tamil_code_mix/SAR_TN_F_SPK01_12980.wav|Arjunan அவர்களே Rupees eight thousand nine hundred refund issue நான் check செய்கிறேன்
+data/wavs_tamil_code_mix/SAR_TN_F_SPK01_14845.wav|Dhanush அவர்களே உங்கள் Rupees one thousand two hundred fifty UPI transaction fail ஆனதற்காக நாங்கள் வருந்துகிறோம் கவலைப்படாதீர்கள்
+data/wavs_tamil_code_mix/SAR_TN_F_SPK01_12737.wav|Parvathi அவர்களே உங்கள் insurance claim ticket five eight seven six three zero நாங்கள் supervisorக்கு escalate செய்துவிட்டோம்
+data/wavs_tamil_code_mix/SAR_TN_F_SPK01_14518.wav|கவலைப்படாதீர்கள் Mala அவர்களே உங்கள் wallet issue update ticket நான்கு எட்டு நான்கு எட்டு ஒன்று நான்குல் உங்களுக்கு விரைவில் கிடைத்துவிடும்
+data/wavs_tamil_code_mix/SAR_TN_F_SPK01_17726.wav|இந்த விஷயம் சிக்கலான உள்ளது எனவே நான் இப்போது உங்களுக்கு Anandiஇடமிருந்து இணைத்து கொண்டிருக்கிறேன் எது OTP ஆறு இரண்டு ஆறு ஒன்பது எட்டு ஆறு தொடர்பான இந்த பிரச்சனை தீர்வு செய்வோம்
+data/wavs_tamil_code_mix/SAR_TN_F_SPK01_16020.wav|Palani அவர்களே எனக்கு புரிகிறது Rupees four thousand five hundred refundல் delayஇடமிருந்து உங்களுக்கு சிரமம் ஏற்பட்ட உள்ளது
+data/wavs_tamil_code_mix/SAR_TN_F_SPK01_13293.wav|Ashwin அவர்களே EMI issueக்கு sincerely apologize செய்கிறோம் Rupees nine hundred ninety nine verificationக்கு தயவுசெய்து holdல் இருங்கள்
+data/wavs_tamil_code_mix/SAR_TN_F_SPK01_13358.wav|வணக்கம் Karuppayee அவர்களே உங்கள் delivery complaintக்கு நீங்கள் எனக்கு ticket six eight seven seven six seven சொல்லுங்கள் முடியுமா
+data/wavs_tamil_code_mix/SAR_TN_F_SPK01_14476.wav|Lakshmi அவர்களே இந்த failed UPI transaction issueல் நான் ticket nine three zero four one four escalate செய்துகொண்டிருக்கிறேன்
+data/wavs_tamil_code_mix/SAR_TN_F_SPK01_15841.wav|வணக்கம் Jagadeesan அவர்களே தயவுசெய்து உங்கள் OTP எட்டு எட்டு பூஜ்ஜியம் ஐந்து மூன்று ஒன்று verify செய்யுங்கள்
+data/wavs_tamil_code_mix/SAR_TN_F_SPK01_15710.wav|Vanaja அவர்களே நீங்கள் OTP ஐந்து ஒன்று ஒன்பது எட்டு ஆறு எட்டு verify செய்ய முடியுமா
+data/wavs_tamil_code_mix/SAR_TN_F_SPK01_17701.wav|Veerappan Solutions Limitedக்கு OTP எட்டு பூஜ்ஜியம் மூன்று ஏழு எட்டு ஏழு சொல்லுங்கள்
+data/wavs_tamil_code_mix/SAR_TN_F_SPK01_14726.wav|வணக்கம் Veluchamy அவர்களே Vanaja Consumer Products Limitedக்கு உங்களை வரவேற்கிறோம் நான் உங்கள் Rupees nine hundred ninety nine cashback issueல் எப்படி help செய்ய முடியும்
+data/wavs_tamil_code_mix/SAR_TN_F_SPK01_15721.wav|Ilangovan அவர்களே இந்த inconvenienceக்கு நாங்கள் sincerely apologize செய்கிறோம் உங்கள் Rupees fifteen thousand refund process ஆகிக்கொண்டிருக்கிறது
+data/wavs_tamil_code_mix/SAR_TN_F_SPK01_16826.wav|Rajarathinam அவர்களே உங்கள் ticket four seven six seven zero eightல் updateக்கு நான் supervisorக்கு escalate செய்துவிட்டேன்
+data/wavs_tamil_code_mix/SAR_TN_F_SPK01_15485.wav|Rajaram அவர்களே எனக்கு புரிகிறது உங்கள் accountஇடமிருந்து Rupees four hundred fifty unauthorized transaction கவலையளிக்கிறது
+data/wavs_tamil_code_mix/SAR_TN_F_SPK01_13815.wav|Valarmathi அவர்களே app login issueக்கு ஏற்பட்ட inconvenienceக்கு apologize செய்கிறோம் தயவுசெய்து OTP ஐந்து ஒன்று எட்டு பூஜ்ஜியம் ஏழு மூன்று verify செய்யுங்கள்
+data/wavs_tamil_code_mix/SAR_TN_F_SPK01_12847.wav|Shanmugam அவர்களே அசௌகரியத்திற்கு sorry தயவுசெய்து ஒரு minute holdல் இருங்கள் நான் ticket one nine seven nine three two check செய்கிறேன்
+data/wavs_tamil_code_mix/SAR_TN_F_SPK01_17547.wav|The Grob Tea Company Limited குறித்து OTP ஒன்று ஏழு எட்டு நான்கு ஆறு மூன்றுஐ உறுதிப்படுத்தல்க்காக தயவுசெய்து ஒன்று கணம் காத்திருப்பு செய்யுங்கள்
+data/wavs_tamil_code_mix/SAR_TN_F_SPK01_15381.wav|Subramaniam அவர்களே உங்கள் Rupees one thousand two hundred fifty failed UPI transactionக்கு எனக்கு இந்த complaint supervisorக்கு escalate செய்ய வேண்டும்
+data/wavs_tamil_code_mix/SAR_TN_F_SPK01_15111.wav|Poongodi அவர்களே உங்கள் blocked credit card issue resolve ஆகிவிடும் நாங்கள் ticket seven six zero one eight oneல் வேலை செய்துகொண்டிருக்கிறோம்
+data/wavs_tamil_code_mix/SAR_TN_F_SPK01_12522.wav|Ganesh அவர்களே எனக்கு புரிகிறது Rupees four thousand five hundred failed UPI transaction ஒன்று பெரிய issue உள்ளது
+data/wavs_tamil_code_mix/SAR_TN_F_SPK01_14208.wav|Kathiresan அவர்களே கவலைப்படாதீர்கள் உங்கள் Rupees one thousand two hundred fifty refund விரைவில் process ஆகிவிடும்
+data/wavs_tamil_code_mix/SAR_TN_F_SPK01_13003.wav|கவலைப்படாதீர்கள் Praveen அவர்களே எனக்கு புரிகிறது Rupees one thousand two hundred fifty recharge fail ஆவது frustrating உள்ளது
+data/wavs_tamil_code_mix/SAR_TN_F_SPK01_11988.wav|வணக்கம் Suriya அவர்களே உங்கள் delivery complaint ticket எட்டு எட்டு ஐந்து இரண்டு எட்டு ஒன்று பற்றி சொல்லுங்கள்
+data/wavs_tamil_code_mix/SAR_TN_F_SPK01_15014.wav|Chitra அவர்களே Rupees nine hundred ninety nine wallet issueக்கு ஏற்பட்ட அசௌகரியத்திற்கு sincerely apologize செய்கிறேன் தயவுசெய்து ஒரு minute holdல் இருங்கள்
+data/wavs_tamil_code_mix/SAR_TN_F_SPK01_16534.wav|வணக்கம் Abinaya அவர்களே உங்கள் Rupees fifteen thousand pending refund issueல் நான் உங்களுக்கு எப்படி help செய்ய முடியும்
+data/wavs_tamil_code_mix/SAR_TN_F_SPK01_12483.wav|Kalpana அவர்களே நான் உங்கள் frustration புரிந்துகொள்கிறேன் தயவுசெய்து எனக்கு இந்த ticket nine seven nine three one zero update check செய்ய அனுமதியுங்கள்
+data/wavs_tamil_code_mix/SAR_TN_F_SPK01_13630.wav|Delayக்கு sincerely apologize செய்கிறேன் Karuppasamy அவர்களே உங்கள் ticket one eight five one one zeroல் updateக்கு தயவுசெய்து ஒரு minute holdல் இருங்கள்
+data/wavs_tamil_code_mix/SAR_TN_F_SPK01_14483.wav|வணக்கம் Ilangovan அவர்களே நான் உங்கள் delivery complaint புரிந்துகொள்கிறேன் மற்றும் இந்த issueஐ ticket ஒன்பது ஆறு இரண்டு பூஜ்ஜியம் பூஜ்ஜியம் மூன்று உடன் உடனடியாக escalate செய்துகொண்டிருக்கிறேன்
+data/wavs_tamil_code_mix/SAR_TN_F_SPK01_16597.wav|Pavithra அவர்களே கவலைப்படாதீர்கள் உங்கள் account verificationக்கு தயவுசெய்து OTP five two two three four eight confirm செய்யுங்கள்
+data/wavs_tamil_code_mix/SAR_TN_F_SPK01_15780.wav|Ramanathan அவர்களே உங்கள் Rupees four hundred fifty refund delayக்கு நாங்கள் sincerely apologize செய்கிறோம்
+data/wavs_tamil_code_mix/SAR_TN_F_SPK01_13995.wav|Chidambaram அவர்களே உங்கள் insurance claim payment processல் சிறிது delay ஏற்பட்ட உள்ளது நான் இப்போது backend teamஇடமிருந்து ticket எட்டு ஒன்று ஏழு நான்கு ஐந்து நான்கு update check செய்துகொண்டிருக்கிறேன்
+data/wavs_tamil_code_mix/SAR_TN_F_SPK01_17055.wav|Anbazhagan அவர்களே எனக்கு புரிகிறது நீங்கள் இந்த fraud concern குறித்து சிரமம் உள்ளன தயவுசெய்து OTP எட்டு ஐந்து எட்டு இரண்டு பூஜ்ஜியம் நான்கு verify செய்யுங்கள்
+data/wavs_tamil_code_mix/SAR_TN_F_SPK01_13311.wav|Rani அவர்களே கவலைப்படாதீர்கள் நான் உங்கள் KYC verification process இப்போது update செய்துகொண்டிருக்கிறேன் தயவுசெய்து OTP ஆறு ஒன்பது இரண்டு மூன்று மூன்று ஒன்று confirm செய்யுங்கள்
+data/wavs_tamil_code_mix/SAR_TN_F_SPK01_16502.wav|Ananya அவர்களே account verificationக்கு நீங்கள் OTP ஐந்து ஆறு நான்கு பூஜ்ஜியம் எட்டு ஆறு சொல்லி இதை escalate செய்வதில் help செய்வோம்
+data/wavs_tamil_code_mix/SAR_TN_F_SPK01_15358.wav|வணக்கம் Panneerselvam அவர்களே customer supportக்கு உங்களை வரவேற்கிறோம் சொல்லுங்கள் நான் உங்கள் telecom complaintக்கு ticket one two five six three zeroல் எப்படி help செய்ய முடியும்
+data/wavs_tamil_code_mix/SAR_TN_F_SPK01_12604.wav|Arjunan அவர்களே உங்கள் credit card unblock முடிந்துவிட்டது உங்களுக்கு OTP five nine two six two three கிடைத்தது ஆகும் futureல் இதுபோன்ற issue இல்லை ஆக இதன் கவனம் வைப்போம்
+data/wavs_tamil_code_mix/SAR_TN_F_SPK01_17480.wav|உங்கள் பிரச்சனை தீர்வு ஆக ஆனது உள்ளது மற்றும் நான் உங்களுக்கு Rathinamஇடமிருந்து இணைத்து கொண்டிருக்கிறேன் தயவுசெய்து OTP ஆறு ஐந்து எட்டு ஆறு இரண்டு மூன்றுஐ உறுதிப்படுத்தல் செய்யுங்கள்
+data/wavs_tamil_code_mix/SAR_TN_F_SPK01_16620.wav|வணக்கம் Aravindan அவர்களே உங்கள் walletல் Rupees four thousand five hundred payment issueக்கு நான் sincerely apologize செய்கிறேன் தயவுசெய்து எனக்கு ஏதேனும் details verify செய்ய அனுமதியுங்கள்
+data/wavs_tamil_code_mix/SAR_TN_F_SPK01_13034.wav|வணக்கம் Chandran அவர்களே உங்கள் OTP eight eight zero zero four six verify முடிந்துவிட்டது சொல்லுங்கள் நான் உங்களுக்கு எப்படி help செய்ய முடியும்
+data/wavs_tamil_code_mix/SAR_TN_F_SPK01_12312.wav|Arjunan அவர்களே Rupees fifteen thousand EMI issueக்கு sincerely apologize செய்கிறேன் தயவுசெய்து ஒரு minute holdல் இருங்கள்
+data/wavs_tamil_code_mix/SAR_TN_F_SPK01_12726.wav|Sorry Pichandi அவர்களே OTP நான்கு எட்டு ஐந்து ஐந்து பூஜ்ஜியம் ஒன்பதுக்காக தயவுசெய்து hold செய்யுங்கள்
+data/wavs_tamil_code_mix/SAR_TN_F_SPK01_15000.wav|Shanthi அவர்களே எனக்கு புரிகிறது Rupees one thousand two hundred fifty wallet issue எவ்வளவு frustrating ஆக இருக்கலாம்
+data/wavs_tamil_code_mix/SAR_TN_F_SPK01_15728.wav|வணக்கம் Marakathammal அவர்களே கவலைப்படாதீர்கள் உங்கள் Rupees fifteen thousand failed UPI transaction refund process ஆகிக்கொண்டிருக்கிறது உங்களுக்கு விரைவில் update கிடைக்கும்
+data/wavs_tamil_code_mix/SAR_TN_F_SPK01_14020.wav|Vishal அவர்களே நான் புரிந்துகொள்கிறேன் உங்கள் recharge failed issueஇடமிருந்து உங்களுக்கு சிரமம் ஏற்பட்ட உள்ளது நான் இப்போது ஒன்று புதிய ticket seven one six eight eight four raise செய்துவிட்டேன்
+data/wavs_tamil_code_mix/SAR_TN_F_SPK01_17283.wav|Naveen அவர்களே sorry உங்கள் OTP ஏழு ஒன்று எட்டு ஒன்று ஆறு மூன்று issue சரி ஆகிவிடும்
+data/wavs_tamil_code_mix/SAR_TN_F_SPK01_12043.wav|வணக்கம் Rangarajan அவர்களே நான் உங்கள் account check செய்துகொண்டிருக்கிறேன் OTP six five three four zero three verify செய்யுங்கள்
+data/wavs_tamil_code_mix/SAR_TN_F_SPK01_16137.wav|Balaji அவர்களே Rupees four hundred fifty recharge issue தயவுசெய்து holdல் இருங்கள்
+data/wavs_tamil_code_mix/SAR_TN_F_SPK01_13418.wav|Deepak அவர்களே நாங்கள் உங்கள் accountல் Rupees four hundred fifty fraud transactionக்கு மிகவும் வருத்தம் உள்ளது
+data/wavs_tamil_code_mix/SAR_TN_F_SPK01_12418.wav|Delivery delayக்கு sincerely apologize செய்கிறேன் Venkatesh அவர்களே நான் உங்கள் ticket five seven three nine nine zero இப்போது check செய்கிறேன்
+data/wavs_tamil_code_mix/SAR_TN_F_SPK01_11865.wav|வணக்கம் Thirumurugan அவர்களே Renuka Phos India Limitedக்கு உங்களை வரவேற்கிறோம் சொல்லுங்கள் உங்கள் OTP four five one eight three zeroஆல் தொடர்புடைய என்ன issue உள்ளது
+data/wavs_tamil_code_mix/SAR_TN_F_SPK01_12018.wav|Dhanush அவர்களே delivery delayக்கு apologize செய்கிறேன் தயவுசெய்து ticket இரண்டு நான்கு நான்கு பூஜ்ஜியம் நான்கு ஐந்து check செய்வதற்கு holdல் இருங்கள்
+data/wavs_tamil_code_mix/SAR_TN_F_SPK01_16815.wav|Arumugam அவர்களே கவலைப்படாதீர்கள் நான் உங்கள் Rupees one thousand two hundred fifty fraud transaction issueல் முழுமையாக help செய்வேன்
+data/wavs_tamil_code_mix/SAR_TN_F_SPK01_17745.wav|நான் சுருக்கத்தில் சொல்கிறேன் Tirupati Forge Limited accountஐ உறுதிப்படுத்தல்க்காக OTP ஆறு இரண்டு எட்டு ஏழு ஐந்து பூஜ்ஜியம் பதிவு செய்யுங்கள்
+data/wavs_tamil_code_mix/SAR_TN_F_SPK01_15900.wav|Thangammal அவர்களே எனக்கு உங்கள் delivery delayஆல் ஏற்பட்ட inconvenienceக்கு வருந்துகிறேன் நான் உங்கள் ticket seven one zero nine nine five check செய்கிறேன்
+data/wavs_tamil_code_mix/SAR_TN_F_SPK01_12215.wav|Gayathri அவர்களே Rupees nine hundred ninety nine EMI issueல் ஏற்பட்ட inconvenienceக்கு நாங்கள் apologize செய்கிறோம் சொல்லுங்கள்
+data/wavs_tamil_code_mix/SAR_TN_F_SPK01_14330.wav|Uma அவர்களே Rupees fifteen thousand transactionல் delayக்கு sincerely apologize செய்கிறேன் தயவுசெய்து ஒரு minute holdல் இருங்கள்
+data/wavs_tamil_code_mix/SAR_TN_F_SPK01_17649.wav|Latha Power Systems Limited பக்கம் இந்த அசௌகரியத்திற்கு நாங்கள் வருந்துகிறோம் தயவுசெய்து உங்கள் accountஐ உறுதிப்படுத்தல்க்காக OTP ஒன்பது இரண்டு ஏழு ஐந்து ஆறு நான்கு வழங்க செய்யுங்கள்
+data/wavs_tamil_code_mix/SAR_TN_F_SPK01_16423.wav|Muniraj அவர்களே எனக்கு புரிகிறது Rupees four thousand five hundred fraud issue குறித்து நீங்கள் கவலை
+data/wavs_tamil_code_mix/SAR_TN_F_SPK01_15116.wav|Deepak அவர்களே உங்கள் ticket ஏழு இரண்டு ஒன்பது மூன்று ஏழு இரண்டுல் எது issue வந்தது இருந்தது நீங்கள் அந்த உங்கள் feedback கொடுக்க விரும்புகிறீர்களா
+data/wavs_tamil_code_mix/SAR_TN_F_SPK01_13639.wav|Perumal அவர்களே இந்த fraud transactionக்கு உங்கள் feedback மிகவும் அவசியம் உள்ளது தயவுசெய்து OTP ஐந்து நான்கு எட்டு ஒன்று பூஜ்ஜியம் ஒன்று verify செய்யுங்கள்
+data/wavs_tamil_code_mix/SAR_TN_F_SPK01_16248.wav|Sivalingam அவர்களே அசௌகரியத்திற்கு sincerely apologize செய்கிறோம் உங்கள் account verificationக்கு அனுப்பினேன் ஆனது OTP one nine nine eight two six இப்போது வரை receive இல்லை ஆனது உள்ளது
+data/wavs_tamil_code_mix/SAR_TN_F_SPK01_13702.wav|Anbu அவர்களே உங்கள் nine hundred ninety nine transaction issueக்கு நான் இந்த complaint supervisorக்கு escalate செய்துகொண்டிருக்கிறேன்
+data/wavs_tamil_code_mix/SAR_TN_F_SPK01_12460.wav|வணக்கம் Kamala அவர்களே உங்கள் Rupees four thousand five hundred cashback issueக்கு நான் இப்போது உங்கள் account check செய்துகொண்டிருக்கிறேன்
+data/wavs_tamil_code_mix/SAR_TN_F_SPK01_12159.wav|வணக்கம் Thamizh அவர்களே Ranganathan Small Finance Bank Limitedக்கு உங்களை வரவேற்கிறோம் சொல்லுங்கள் நான் உங்கள் ticket இரண்டு பூஜ்ஜியம் மூன்று ஒன்பது நான்கு ஆறுல் எப்படி help செய்ய முடியும்
+data/wavs_tamil_code_mix/SAR_TN_F_SPK01_16897.wav|Vaithilingam அவர்களே delivery delayக்கு apologize செய்கிறேன் தயவுசெய்து holdல் இருங்கள் நான் உங்கள் ticket மூன்று ஏழு ஒன்பது ஐந்து மூன்று நான்கு check செய்ய
+data/wavs_tamil_code_mix/SAR_TN_F_SPK01_13386.wav|Akshaya அவர்களே ticket four eight six four nine six delayக்கு apologize செய்கிறேன்
+data/wavs_tamil_code_mix/SAR_TN_F_SPK01_15444.wav|Annamalai அவர்களே உங்கள் Rupees fifteen thousand refund issueஐ நான் இப்போது supervisorக்கு escalate செய்துகொண்டிருக்கிறேன்
+data/wavs_tamil_code_mix/SAR_TN_F_SPK01_11781.wav|வணக்கம் Roja அவர்களே நான் உங்கள் Rupees eight thousand nine hundred transaction issueஆல் ஏற்பட்ட சிரமம் புரிந்துகொள்கிறேன் தயவுசெய்து எனக்கு இதை check செய்ய நேரம் கொடுங்கள்
+data/wavs_tamil_code_mix/SAR_TN_F_SPK01_15330.wav|வணக்கம் Lakshmi அவர்களே உங்கள் telecom complaintக்கு நான் உங்கள் ticket two three eight seven three four systemல் check செய்து உங்களுக்கு update செய்கிறேன்
